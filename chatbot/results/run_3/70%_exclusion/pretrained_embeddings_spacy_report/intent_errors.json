@@ -1,0 +1,418 @@
+[
+  {
+    "text": "hi folks",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.329959566406727
+    }
+  },
+  {
+    "text": "hello there",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.26381690572750305
+    }
+  },
+  {
+    "text": "hi?",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3112681251539477
+    }
+  },
+  {
+    "text": "hey dude",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.24224635897207214
+    }
+  },
+  {
+    "text": "hello sweet boy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2728088754451471
+    }
+  },
+  {
+    "text": "Hello",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3786454232029752
+    }
+  },
+  {
+    "text": "heyho",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2014785913032526
+    }
+  },
+  {
+    "text": "hi again",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3491839911458454
+    }
+  },
+  {
+    "text": "jojojo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.7388950065513537
+    }
+  },
+  {
+    "text": "hiihihi",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.3735188066482481
+    }
+  },
+  {
+    "text": "Hei",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.5169274717758489
+    }
+  },
+  {
+    "text": "hello friend",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.32793256138493493
+    }
+  },
+  {
+    "text": "k byyye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.4235629458963223
+    }
+  },
+  {
+    "text": "bye was nice talking to you",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.32159158371967494
+    }
+  },
+  {
+    "text": "good night",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3384536802419498
+    }
+  },
+  {
+    "text": "bye for now",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.21703602681640793
+    }
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3748861206053403
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.7388950065513537
+    }
+  },
+  {
+    "text": "okey",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.29133256649926137
+    }
+  },
+  {
+    "text": "oki doki",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.380935341931428
+    }
+  },
+  {
+    "text": "i decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.31459384545283525
+    }
+  },
+  {
+    "text": "i don't think so",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.29304047474553474
+    }
+  },
+  {
+    "text": "absolutely not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4075382094234686
+    }
+  },
+  {
+    "text": "nah",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.23534913120251033
+    }
+  },
+  {
+    "text": "not really",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3615515195632171
+    }
+  },
+  {
+    "text": "definitely not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3895713952765644
+    }
+  },
+  {
+    "text": "no way",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2988638645834387
+    }
+  },
+  {
+    "text": "i'm not sure",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3643941598775611
+    }
+  },
+  {
+    "text": "I don't want to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.35402479860117936
+    }
+  },
+  {
+    "text": "stop",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.24080293729793942
+    }
+  },
+  {
+    "text": "i guess you can't help me then",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.32532379268148903
+    }
+  },
+  {
+    "text": "you can't help me with what i need",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3328899350322599
+    }
+  },
+  {
+    "text": "stop then ! i am not helping",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.34635841077128154
+    }
+  },
+  {
+    "text": "that was bad, you're not helping",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.32196594405424167
+    }
+  },
+  {
+    "text": "thanks for forum link, I'll check it out",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.34306410921489167
+    }
+  },
+  {
+    "text": "ok thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3249360247554487
+    }
+  },
+  {
+    "text": "cool thanks",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3707088890590976
+    }
+  },
+  {
+    "text": "thank you so much fo your help !",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3628953994848253
+    }
+  },
+  {
+    "text": "this is a good proposition thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3570851405342903
+    }
+  },
+  {
+    "text": "great thanks",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.38608210719194375
+    }
+  },
+  {
+    "text": "perfect thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.384530746138675
+    }
+  },
+  {
+    "text": "i am sorry for that thank you anyways",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3402437253775468
+    }
+  },
+  {
+    "text": "thanks this is great news",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3754636404547021
+    }
+  },
+  {
+    "text": "terrible",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2469274921087801
+    }
+  },
+  {
+    "text": "very bad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3610806909900798
+    }
+  },
+  {
+    "text": "boutheina",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.3735188066482481
+    }
+  },
+  {
+    "text": "Yosra",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.3735188066482481
+    }
+  },
+  {
+    "text": "i am jalel aloui",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.38934635821812413
+    }
+  },
+  {
+    "text": "syrine slouli",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.3735188066482481
+    }
+  },
+  {
+    "text": "radhouane",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.3735188066482481
+    }
+  },
+  {
+    "text": "why can't i create a new task ?",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.24593614735533148
+    }
+  },
+  {
+    "text": "i would like to add my task in Task manager",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.21924612786599873
+    }
+  }
+]

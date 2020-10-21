@@ -1,0 +1,260 @@
+## intent:greet
+- whats up
+- hey
+- hiihihi
+- hey dude
+- Whats up my bot
+- hey let's talk
+- hi there
+- hello?
+- hello is anybody there
+- hello
+- helloooo
+- Hei
+- hallo
+- Hellllooooooo
+- good morning
+- hi pal!
+- howdy
+- hello everybody
+- hello there
+
+## intent:goodbye
+- bye
+- good night
+- farewell
+- bye for now
+- then bye
+- thank you goodbye
+- k byyye
+- tschüssikowski
+- thank you bye
+
+## intent:affirm
+- oh awesome!
+- confirm
+- yes barbecue food
+- I am great
+- i don't want to change anything
+- definitely
+- yep if i have to
+- i don't want to modify anything , every thing is fine
+- exactly
+- correct
+- i accept
+- great !!!
+- yes great this is what I want
+- jo
+- that's great thank you
+- Oh, ok
+- amayzing
+- ok, I behave now
+- ok cool
+- absolutely
+- yes i want
+- of course
+- perfect
+- i can affirm the search
+- that's so great
+- go for it
+- it's okey
+- wonderful
+- yeah
+- really
+- yes can i have
+- verily
+- let's continue
+- ja
+- yes pleaaaase
+- okey
+- I am feeling very good
+- done
+
+## intent:deny
+- almost
+- sorry, i cannot rephrase
+- I'm not giving you my email address
+- invalidly
+- i'm not sure
+- i don't want to
+- no go
+- neither of these
+- no ma'am
+- nevermind
+- definitely not
+- no way
+- i decline
+- nah thanks
+
+## intent:stop
+- do you get anything?
+- that's not what i want
+- ok i guess you can't help me
+- you suck
+- and that's it?
+- that was bad, you're not helping
+- you can't help me with what i need
+- this is leading to nothing
+
+## intent:thankyou
+- great job ! thank you
+- unintelligible thank you
+- thanks a bunch for everything
+- thank you meera
+- meera thank you
+- Thank you so much
+- breath thank you very much
+- this is a good proposition thank you
+- uh thank you
+- cool, thanks
+- you rock
+- thank you for the opportunity to work with you. I appreciate it very much
+- sorry about my mistakes thank you
+- cool thank you
+
+## intent:mood_unhappy
+- not very good
+- extremely sad
+- very sad
+
+## intent:name
+- my name is [nimra jibran](name)
+- my name is [Anna Lynn](name)
+- Hi bot i am [salwa bey](name)
+- my name is [Bobby Lee](name)
+- my name is [Evan-Grant Hill](name)
+- my full name is [owais khan](name)
+- heyyy, my name is [radhi brahim](name)
+- my name is [Anna Sophia](name)
+- my name is [ahmed rhouma](name)
+- [fatma](name)
+- i am [Lara-Margaret](name)
+- jojojo I am [Charlie](name)
+- my name is [radhi brahim](name)
+- [zied](name)
+- [dalel baroudi](name)
+- You can call me [Sam bowie](name)
+- my name is [naziha](name)
+- my name is [Anna Mae](name)
+- i am [mahdi abeljawed](name)
+- My name is [John braham](name)
+- my name is [tarek abbes](name)
+- [mourad](name)
+- hello my full name is [miro ayadi](name)
+- i am [Ava-Louise](name)
+- my name is [nour](name)
+- hii my name is [tarek abbes](name)
+- i am [mahdi ben ali](name)
+- my name is [Anna Beth](name)
+- my name is [Peter-Owen](name)
+- Usually people call me [Amy luiz](name)
+- my name is [Jack Thomas](name)
+- [Mohsen](name)
+- [mokhtar](name)
+- good evening, You can call me [Sam bowie](name)
+- hi, I'm [mohamed omar](name)
+- my name is [amine](name)
+- I am [Richard](name)
+- my full name is [abedelhak](name)
+- my name is [Frank-Evan Wood](name)
+- my name is [syrine slouli](name)
+- my full name is [nour Abid](name)
+- my full name is [Paul-Franklin](name)
+- my full name is [Zulnurain Adil](name)
+- my full name is [Evan-Scott Lopez](name)
+- my name is [ali chaabani](name)
+- my full name is [Jo Lynn](name)
+- [waleed](name)
+- my name is [yoser chebbi](name)
+- my name is [Robin Lynn](name)
+- my name is [Mark Paul Nelson](name)
+- my full name is [Zaky Jamalallil](name)
+- my name is [Zulnurain Adil](name)
+- my full name is [Josie Mae](name)
+- my full name is [Hugh-Frank Scott](name)
+- my full name is [Lily Belle](name)
+- my name is [Jordan Alexander](name)
+- my name is [usman Babayan](name)
+- my name is [Thomas Howlett](name)
+- i am [Lara-Catherine](name)
+- Hi ! People call me [Greg adams](name)
+- i am [Eva-Marie](name)
+- My name is [omar ayadi](name)
+- hi !! i am [mahdi abeljawed](name)
+- my name is [khouloud](name)
+- my name is [Billy Joe](name)
+- my full name is [John-Oliver](name)
+- hey there my name is [Tom](name)
+- ola my name is [leila daghfous](name)
+- my full name is [miro ayadi](name)
+- my full name is [minica blanco](name)
+- i am [Eva-Claire](name)
+- hello I am [omar ahmed](name)
+- my name is [Hugh-James](name)
+- i am [Ella-Jane](name)
+- my full name is [Mary Jane](name)
+- my full name is [Evan-Grant Hill](name)
+- my name is [Paul-Anthony](name)
+- my name is [salim rabhi](name)
+- my name is [mustafa](name)
+- I am [Charlie](name)
+- I am [houssem ghorbel](name)
+- hey I am [chaabani Nada](name)
+- my name is [John Ryan Simmons](name)
+- good morning, My name is [John braham](name)
+- It's [David jones](name)
+
+## intent:create_task
+- how to add the task in Task manager ?
+- where do i find create a new task ?
+- i could not find create a task
+- how do I add my task in Task manager ?
+- i want to add a task in Task manager
+- how do I create a new task ?
+- how to add my task in Task manager ?
+- what steps are necessary to create a task
+- where do i find add a task ?
+- i want to add a new task
+- add my task in Task manager
+- how to create a new task ?
+
+## intent:inform
+- [20](task_priority)
+- [customize an Airtable database](stream_name)
+- [a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.](workspace_description)
+- [Training users](workspace_description)
+- [secretary](workspace_name)
+- [determine business requirements](task_name)
+- [editor](workspace_name)
+- [evaluate user feedback](task_name)
+- [getting familiar with chatbot](stream_name)
+- [develop new techniques to improve the program ](stream_name)
+- [explore new features of this program](stream_name)
+- [integrated development environment](workspace_name)
+- [master forms on rasa](stream_name)
+- [Planning and Design](task_name)
+- [deploy programs](task_name)
+- [A niche chatbot  ](workspace_name)
+- [Troubleshoot](task_name)
+- [Small Ultra Simple Windows Program ](stream_name)
+- [Put Projects Under Version Control](workspace_name)
+- [687](stream_id)
+- [foundational knowledge of project](task_name)
+- [Looking for an ASP.NET and PHP expert for a woocommerce payment Gateaway plugin ](stream_name)
+- [A random name generator ](workspace_name)
+- [Drag the developable task here](task_name)
+- [Enter a data science competition](workspace_name)
+- [recreate a pixel perfect design](workspace_name)
+- [924](ws_id)
+- [gather requirements](task_name)
+- [Dealing with Non-existent Posts](workspace_name)
+- [A method, information processing system, and computer program product manage virtual workspace migration](workspace_description)
+- [Music suggestion tool ](workspace_name)
+- [web development project](workspace_name)
+- [web app](workspace_name)
+- [A system and method for an event driven virtual workspace are described.](workspace_description)
+- [Deploying software tools, processes and metrics](workspace_description)
+- [Developing quality assurance procedures](workspace_description)
+- [Client-side Validation](workspace_name)
+- [React Install and Programming Help](stream_name)
+- [Product landing page](stream_name)

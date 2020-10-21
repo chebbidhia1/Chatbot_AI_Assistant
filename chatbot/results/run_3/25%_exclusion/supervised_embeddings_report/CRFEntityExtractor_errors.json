@@ -1,0 +1,461 @@
+[
+  {
+    "text": "i don't want to modify anything , every thing is fine",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 49,
+        "end": 53,
+        "confidence_entity": 0.899324679789347,
+        "value": "fine",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "thanks this is great news",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 15,
+        "end": 25,
+        "confidence_entity": 0.6798513088172469,
+        "value": "great news",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "fatma",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "fatma",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am mahdi ben ali",
+    "entities": [
+      {
+        "start": 5,
+        "end": 18,
+        "value": "mahdi ben ali",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 5,
+        "end": 10,
+        "confidence_entity": 0.503318076979174,
+        "value": "mahdi",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "dhia chebbi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "dhia chebbi",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am salwa bey",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "value": "salwa bey",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "tlili ahmed",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "tlili ahmed",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "nada nefzi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "nada nefzi",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "salah ali",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "salah ali",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Eya",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "Eya",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Call me Sally",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "Sally",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Subcription Logic help for a small movie site ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 46,
+        "value": "Subcription Logic help for a small movie site ",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "1280",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "1280",
+        "entity": "stream_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": " implement",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": " implement",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "572",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "572",
+        "entity": "org_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "rasa chatbot deployment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "value": "rasa chatbot deployment",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "A method, information processing system, and computer program product manage virtual workspace migration",
+    "entities": [
+      {
+        "start": 0,
+        "end": 104,
+        "value": "A method, information processing system, and computer program product manage virtual workspace migration",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 104,
+        "confidence_entity": 0.3100016842594648,
+        "value": "A method, information processing system, and computer program product manage virtual workspace migration",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "master forms on rasa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 20,
+        "value": "master forms on rasa",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "action create task with chatbot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "action create task with chatbot",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "web app",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "web app",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "IOT Platform Data Modeling Architect",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 4,
+        "end": 36,
+        "confidence_entity": 0.42879609235393584,
+        "value": "Platform Data Modeling Architect",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "A niche chatbot  ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "A niche chatbot  ",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.46278160216892494,
+        "value": "A niche",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Drag the task that requires UI design here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "Drag the task that requires UI design here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "determine business requirements",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "determine business requirements",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "creating a new workspace type",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "creating a new workspace type",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Drag the task that requires the product design here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 51,
+        "value": "Drag the task that requires the product design here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "task_name",
+        "start": 0,
+        "end": 13,
+        "confidence_entity": 0.49233548960997264,
+        "value": "Drag the task",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "task_name",
+        "start": 47,
+        "end": 51,
+        "confidence_entity": 0.4170115231457081,
+        "value": "here",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Image Processing System",
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "value": "Image Processing System",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 23,
+        "confidence_entity": 0.7958396837986881,
+        "value": "Image Processing System",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "JavaScript quiz game ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 21,
+        "value": "JavaScript quiz game ",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Troubleshoot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "Troubleshoot",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 12,
+        "confidence_entity": 0.46658043477375594,
+        "value": "Troubleshoot",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "deploy programs",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "deploy programs",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "web project management",
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "value": "web project management",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "integrated development environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "integrated development environment",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

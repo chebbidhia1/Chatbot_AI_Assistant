@@ -1,0 +1,146 @@
+[
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.4949296067280388
+    }
+  },
+  {
+    "text": "jojojo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.6330936168043434
+    }
+  },
+  {
+    "text": "heyho",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8957250829503921
+    }
+  },
+  {
+    "text": "hiii",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2823720661609731
+    }
+  },
+  {
+    "text": "very good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8643976680630497
+    }
+  },
+  {
+    "text": "please",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.5697869296302774
+    }
+  },
+  {
+    "text": "coolio",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.4728723086746086
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.6330936168043434
+    }
+  },
+  {
+    "text": "no I haven't decided yet if I want to serach",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4870386985974729
+    }
+  },
+  {
+    "text": "I'm not going to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4796122245539172
+    }
+  },
+  {
+    "text": "never mind",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4545380796826431
+    }
+  },
+  {
+    "text": "I don't want to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4825411486774376
+    }
+  },
+  {
+    "text": "stop go back",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.3030201823967362
+    }
+  },
+  {
+    "text": "you did it wrong",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.44349072417545093
+    }
+  },
+  {
+    "text": "and you call yourself bot company? pff",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3065560109023566
+    }
+  },
+  {
+    "text": "hm i don't think you can do what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.488657771877883
+    }
+  },
+  {
+    "text": "and thats all thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4943439884193256
+    }
+  },
+  {
+    "text": "so sad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.32614079981895067
+    }
+  }
+]

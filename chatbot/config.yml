@@ -1,0 +1,17 @@
+# Configuration for Rasa NLU
+language: en
+pipeline: supervised_embeddings
+
+# Configuration for Rasa Core
+policies:
+- name: MemoizationPolicy
+  max_history: 3
+  priority: 3
+- name: MappingPolicy
+- name: EmbeddingPolicy
+- name: FallbackPolicy
+  nlu_threshold: 0.3
+  ambiguity_threshold: 0.3
+  core_threshold: 0.3
+  fallback_action_name: action_default_fallback
+- name: FormPolicy

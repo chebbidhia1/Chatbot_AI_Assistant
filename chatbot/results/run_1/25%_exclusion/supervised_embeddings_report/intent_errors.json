@@ -1,0 +1,186 @@
+[
+  {
+    "text": "yo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.22245612740516663
+    }
+  },
+  {
+    "text": "thank you good bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.47892916202545166
+    }
+  },
+  {
+    "text": "tschüssikowski",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.38556891679763794
+    }
+  },
+  {
+    "text": "thank you goodbye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.6743149161338806
+    }
+  },
+  {
+    "text": "okey thank you :)",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.9584359526634216
+    }
+  },
+  {
+    "text": "hm, i'd like that",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.8998194336891174
+    }
+  },
+  {
+    "text": "jo",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.38270992040634155
+    }
+  },
+  {
+    "text": "no ma'am",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.5706319212913513
+    }
+  },
+  {
+    "text": "neither of these",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.19994552433490753
+    }
+  },
+  {
+    "text": "sorry, i cannot rephrase",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.2754095196723938
+    }
+  },
+  {
+    "text": "no i don't accept",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.4540348947048187
+    }
+  },
+  {
+    "text": "nah not for me",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.5111639499664307
+    }
+  },
+  {
+    "text": "you did it wrong",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2815451920032501
+    }
+  },
+  {
+    "text": "waleed",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5912800431251526
+    }
+  },
+  {
+    "text": "aisha",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1976936012506485
+    }
+  },
+  {
+    "text": "mourad",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.3363155722618103
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.3373475968837738
+    }
+  },
+  {
+    "text": "remain marketable in a constantly evolving industry",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18730704486370087
+    }
+  },
+  {
+    "text": "Product landing page",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.23911353945732117
+    }
+  },
+  {
+    "text": "bot testing",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.2656114399433136
+    }
+  },
+  {
+    "text": "web app",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.16789594292640686
+    }
+  },
+  {
+    "text": "debug",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17286765575408936
+    }
+  },
+  {
+    "text": "Create a text message downtime alerter",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.31449663639068604
+    }
+  }
+]

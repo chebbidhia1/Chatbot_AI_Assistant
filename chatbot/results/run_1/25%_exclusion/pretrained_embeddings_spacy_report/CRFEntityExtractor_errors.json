@@ -1,0 +1,481 @@
+[
+  {
+    "text": "thanks this is great news",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 15,
+        "end": 25,
+        "confidence_entity": 0.8787440114213884,
+        "value": "great news",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "naima",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "naima",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "radhouane",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "radhouane",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Please call me Linda",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "value": "Linda",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Marwa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "Marwa",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "tarek abbes",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "tarek abbes",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Yosra",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "Yosra",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "nada",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "nada",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Eya",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "Eya",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "jasser",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "jasser",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "houssem ghorbel",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "houssem ghorbel",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "houda",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "houda",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "ws chatbot backbones creation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "ws chatbot backbones creation",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 3,
+        "end": 29,
+        "confidence_entity": 0.3536095096963359,
+        "value": "chatbot backbones creation",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "572",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "572",
+        "entity": "org_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "remain marketable in a constantly evolving industry",
+    "entities": [
+      {
+        "start": 0,
+        "end": 51,
+        "value": "remain marketable in a constantly evolving industry",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Create and automatically update a data set",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "Create and automatically update a data set",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Writing and implementing efficient code",
+    "entities": [
+      {
+        "start": 0,
+        "end": 39,
+        "value": "Writing and implementing efficient code",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "optimization",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "optimization",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Subcription Logic help for a small movie site ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 46,
+        "value": "Subcription Logic help for a small movie site ",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 35,
+        "end": 45,
+        "confidence_entity": 0.4637998487166276,
+        "value": "movie site",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Bandwidth monitor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "Bandwidth monitor",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 10,
+        "end": 17,
+        "confidence_entity": 0.4893325822472945,
+        "value": "monitor",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "dependencies injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "value": "dependencies injection",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 13,
+        "end": 22,
+        "confidence_entity": 0.3627702102417251,
+        "value": "injection",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "workspace for test",
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "value": "workspace for test",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "image processing and analysis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "image processing and analysis",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "stream_name",
+        "start": 0,
+        "end": 29,
+        "confidence_entity": 0.4540554969233958,
+        "value": "image processing and analysis",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "complete the major phases of the lifecycle",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "stream_name",
+        "start": 0,
+        "end": 32,
+        "confidence_entity": 0.33529898026996807,
+        "value": "complete the major phases of the",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "IOT Platform Data Modeling Architect",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "upgrade existing software",
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "value": "upgrade existing software",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Resolve application",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "Resolve application",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Establish the requirements stream here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 38,
+        "value": "Establish the requirements stream here",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "task_name",
+        "start": 0,
+        "end": 38,
+        "confidence_entity": 0.7918256788479751,
+        "value": "Establish the requirements stream here",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Create technical documentation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "value": "Create technical documentation",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "548",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "548",
+        "entity": "org_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Login authentication ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 21,
+        "value": "Login authentication ",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "web application creation using node js",
+    "entities": [
+      {
+        "start": 0,
+        "end": 38,
+        "value": "web application creation using node js",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 38,
+        "confidence_entity": 0.40752275241359714,
+        "value": "web application creation using node js",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Reactnative site customization",
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "value": "Reactnative site customization",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 30,
+        "confidence_entity": 0.48028559968926726,
+        "value": "Reactnative site customization",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  }
+]

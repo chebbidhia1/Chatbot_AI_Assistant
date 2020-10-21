@@ -1,0 +1,210 @@
+[
+  {
+    "text": "jojojo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.333199679851532
+    }
+  },
+  {
+    "text": "good night",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.992604672908783
+    }
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9724435210227966
+    }
+  },
+  {
+    "text": "wonderful",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.2649880349636078
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.19663868844509125
+    }
+  },
+  {
+    "text": "done",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6111971139907837
+    }
+  },
+  {
+    "text": "i don't think so",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.5221408605575562
+    }
+  },
+  {
+    "text": "absolutely not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.4590623080730438
+    }
+  },
+  {
+    "text": "definitely not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.3913341462612152
+    }
+  },
+  {
+    "text": "this is a good proposition thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.4792015552520752
+    }
+  },
+  {
+    "text": "great thanks",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5408486723899841
+    }
+  },
+  {
+    "text": "thanks this is great news",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.39473021030426025
+    }
+  },
+  {
+    "text": "terrible",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.1657566875219345
+    }
+  },
+  {
+    "text": "boutheina",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3901400864124298
+    }
+  },
+  {
+    "text": "i am Silvia-Fern Green",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5314282774925232
+    }
+  },
+  {
+    "text": "Yosra",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2007329761981964
+    }
+  },
+  {
+    "text": "syrine slouli",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.31147563457489014
+    }
+  },
+  {
+    "text": "suleiman",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.2592754662036896
+    }
+  },
+  {
+    "text": "A tax forecaster ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.21668986976146698
+    }
+  },
+  {
+    "text": "extract source code from a small exe file",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5417730808258057
+    }
+  },
+  {
+    "text": "Create a text message downtime alerter",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.35502177476882935
+    }
+  },
+  {
+    "text": "action create task with chatbot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.6258717179298401
+    }
+  },
+  {
+    "text": "Audit Your Site With Lighthouse",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.49858224391937256
+    }
+  },
+  {
+    "text": "enrich knowledge about graphql",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.18805691599845886
+    }
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6147176027297974
+    }
+  },
+  {
+    "text": "bot testing",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.1958433836698532
+    }
+  }
+]

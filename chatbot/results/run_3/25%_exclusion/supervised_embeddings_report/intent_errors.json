@@ -1,0 +1,210 @@
+[
+  {
+    "text": "Whats up my bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.5860980153083801
+    }
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.45303282141685486
+    }
+  },
+  {
+    "text": "what up",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.4032341241836548
+    }
+  },
+  {
+    "text": "toodle-oo",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.39183875918388367
+    }
+  },
+  {
+    "text": "positively",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.23036229610443115
+    }
+  },
+  {
+    "text": "oki doki",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.2004678100347519
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.25045621395111084
+    }
+  },
+  {
+    "text": "definitely",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4556503891944885
+    }
+  },
+  {
+    "text": "done",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.285851389169693
+    }
+  },
+  {
+    "text": "almost",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2393375039100647
+    }
+  },
+  {
+    "text": "nothing else?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9447841048240662
+    }
+  },
+  {
+    "text": "do you get anything?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2709971070289612
+    }
+  },
+  {
+    "text": "and that's it?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8570883870124817
+    }
+  },
+  {
+    "text": "cheers",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.1980966478586197
+    }
+  },
+  {
+    "text": "cheers bro",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.26170966029167175
+    }
+  },
+  {
+    "text": "i am Silvia-Fern Green",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.38479816913604736
+    }
+  },
+  {
+    "text": "fatma",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.1578650325536728
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.48627761006355286
+    }
+  },
+  {
+    "text": "Khadija",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3518935441970825
+    }
+  },
+  {
+    "text": "Put Projects Under Version Control",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3465312421321869
+    }
+  },
+  {
+    "text": "master forms on rasa",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.21220195293426514
+    }
+  },
+  {
+    "text": "action create task with chatbot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.6904833316802979
+    }
+  },
+  {
+    "text": "web app",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.1781957894563675
+    }
+  },
+  {
+    "text": "A niche chatbot  ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.19525371491909027
+    }
+  },
+  {
+    "text": "JavaScript quiz game ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.44218021631240845
+    }
+  },
+  {
+    "text": "Troubleshoot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.26941171288490295
+    }
+  }
+]

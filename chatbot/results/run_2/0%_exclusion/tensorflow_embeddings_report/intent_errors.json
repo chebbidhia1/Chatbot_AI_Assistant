@@ -1,0 +1,186 @@
+[
+  {
+    "text": "good evening",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.624697208404541
+    }
+  },
+  {
+    "text": "yoo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.35260894894599915
+    }
+  },
+  {
+    "text": "jop",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.38260945677757263
+    }
+  },
+  {
+    "text": "toodle-oo",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.2916482388973236
+    }
+  },
+  {
+    "text": "that's what i want",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.6916626691818237
+    }
+  },
+  {
+    "text": "go for it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.4530183672904968
+    }
+  },
+  {
+    "text": "ja",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.29439350962638855
+    }
+  },
+  {
+    "text": "hm, i'd like that",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.8025389909744263
+    }
+  },
+  {
+    "text": "yay",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.2376069575548172
+    }
+  },
+  {
+    "text": "nothing else?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9736908674240112
+    }
+  },
+  {
+    "text": "yes thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.47645968198776245
+    }
+  },
+  {
+    "text": "okey thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.970493495464325
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7097725868225098
+    }
+  },
+  {
+    "text": "waleed",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7570216059684753
+    }
+  },
+  {
+    "text": "Anis",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16089144349098206
+    }
+  },
+  {
+    "text": "naima",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.29108065366744995
+    }
+  },
+  {
+    "text": "editor",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.2564461827278137
+    }
+  },
+  {
+    "text": "A spam classifier",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2334243208169937
+    }
+  },
+  {
+    "text": "Troubleshoot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19519391655921936
+    }
+  },
+  {
+    "text": "Achieving Quality of Service and Quality of Life in the Grid",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.47124534845352173
+    }
+  },
+  {
+    "text": "extract source code from a small exe file",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8014916181564331
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7966848611831665
+    }
+  },
+  {
+    "text": "web app",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.3317786157131195
+    }
+  }
+]

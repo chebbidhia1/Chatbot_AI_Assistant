@@ -1,0 +1,242 @@
+[
+  {
+    "text": "yo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.32652243971824646
+    }
+  },
+  {
+    "text": "what up",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9707158803939819
+    }
+  },
+  {
+    "text": "thank you good bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.7177891731262207
+    }
+  },
+  {
+    "text": "tschüssikowski",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2537202537059784
+    }
+  },
+  {
+    "text": "k byyye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.30028417706489563
+    }
+  },
+  {
+    "text": "thank you goodbye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.836533784866333
+    }
+  },
+  {
+    "text": "i accept",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.4963201880455017
+    }
+  },
+  {
+    "text": "okey thank you :)",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.9817527532577515
+    }
+  },
+  {
+    "text": "hm, i'd like that",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.6886650919914246
+    }
+  },
+  {
+    "text": "jo",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.32343703508377075
+    }
+  },
+  {
+    "text": "absolutely not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7051342129707336
+    }
+  },
+  {
+    "text": "no i don't accept",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.6110982298851013
+    }
+  },
+  {
+    "text": "you did it wrong",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7303223013877869
+    }
+  },
+  {
+    "text": "bad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.26534581184387207
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7399243116378784
+    }
+  },
+  {
+    "text": "waleed",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5650335550308228
+    }
+  },
+  {
+    "text": "aisha",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19830921292304993
+    }
+  },
+  {
+    "text": "mourad",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.233811616897583
+    }
+  },
+  {
+    "text": "People call me Greg adams",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2661891579627991
+    }
+  },
+  {
+    "text": "remain marketable in a constantly evolving industry",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2483283430337906
+    }
+  },
+  {
+    "text": "Product landing page",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.18906454741954803
+    }
+  },
+  {
+    "text": "Drag the developable task here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.6409226655960083
+    }
+  },
+  {
+    "text": "An expense tracker",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.29538342356681824
+    }
+  },
+  {
+    "text": "A random name generator ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.6487199664115906
+    }
+  },
+  {
+    "text": "Complete Website",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.396694540977478
+    }
+  },
+  {
+    "text": "bot testing",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.23171746730804443
+    }
+  },
+  {
+    "text": "web app",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.24319124221801758
+    }
+  },
+  {
+    "text": "debug",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.21186551451683044
+    }
+  },
+  {
+    "text": "A procedurally generated map maker",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16966260969638824
+    }
+  },
+  {
+    "text": "Create a text message downtime alerter",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.3002487123012543
+    }
+  }
+]

@@ -1,0 +1,556 @@
+[
+  {
+    "text": "hello is anybody there",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 9,
+        "end": 22,
+        "confidence_entity": 0.7965477838728924,
+        "value": "anybody there",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Cool. Thanks",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 12,
+        "confidence_entity": 0.6624593922246712,
+        "value": "Cool. Thanks",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "waleed",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "waleed",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "leila daghfous",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "value": "leila daghfous",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "suleiman",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "suleiman",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "hola call me Sally",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "Sally",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am mahdi ben ali",
+    "entities": [
+      {
+        "start": 5,
+        "end": 18,
+        "value": "mahdi ben ali",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "houssem ghorbel",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "houssem ghorbel",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "naima",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "naima",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You can call me Sam bowie",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "value": "Sam bowie",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I am nada chabbani",
+    "entities": [
+      {
+        "start": 5,
+        "end": 18,
+        "value": "nada chabbani",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "minica blanco",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "minica blanco",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "nada nefzi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "nada nefzi",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am mahdi abeljawed",
+    "entities": [
+      {
+        "start": 5,
+        "end": 20,
+        "value": "mahdi abeljawed",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "kamel tounsi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "kamel tounsi",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "build chatbot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "build chatbot",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "financial independence calculator",
+    "entities": [
+      {
+        "start": 0,
+        "end": 33,
+        "value": "financial independence calculator",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "ws chatbot backbones creation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "ws chatbot backbones creation",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Testing and evaluating new programs",
+    "entities": [
+      {
+        "start": 0,
+        "end": 35,
+        "value": "Testing and evaluating new programs",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "editor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "editor",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "IOT Platform Data Modeling Architect",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 4,
+        "end": 36,
+        "confidence_entity": 0.40075715224962766,
+        "value": "Platform Data Modeling Architect",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Build First Node App",
+    "entities": [
+      {
+        "start": 0,
+        "end": 20,
+        "value": "Build First Node App",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.43400271749362035,
+        "value": "Build First",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "name",
+        "start": 12,
+        "end": 20,
+        "confidence_entity": 0.47828744555130487,
+        "value": "Node App",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "A spam classifier",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "A spam classifier",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Drag the task that requires UI design here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "Drag the task that requires UI design here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "An expense tracker (suggested implementation: web or mobile app).",
+    "entities": [
+      {
+        "start": 0,
+        "end": 65,
+        "value": "An expense tracker (suggested implementation: web or mobile app).",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 10,
+        "confidence_entity": 0.39157925850045977,
+        "value": "An expense",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "integrated development environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "integrated development environment",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "A procedurally generated map maker",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "A procedurally generated map maker",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Troubleshoot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "Troubleshoot",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 12,
+        "confidence_entity": 0.47263594561454564,
+        "value": "Troubleshoot",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "A big portion of modern software is SaaS and web apps",
+    "entities": [
+      {
+        "start": 0,
+        "end": 53,
+        "value": "A big portion of modern software is SaaS and web apps",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Drag the task that requires the product design here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 51,
+        "value": "Drag the task that requires the product design here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Achieving Quality of Service and Quality of Life in the Grid",
+    "entities": [
+      {
+        "start": 0,
+        "end": 60,
+        "value": "Achieving Quality of Service and Quality of Life in the Grid",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_description",
+        "start": 0,
+        "end": 51,
+        "confidence_entity": 0.3975285738407741,
+        "value": "Achieving Quality of Service and Quality of Life in",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "name",
+        "start": 52,
+        "end": 60,
+        "confidence_entity": 0.3058685801044496,
+        "value": "the Grid",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "548",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "548",
+        "entity": "org_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "web application creation using node js",
+    "entities": [
+      {
+        "start": 0,
+        "end": 38,
+        "value": "web application creation using node js",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "migration for the test environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "migration for the test environment",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "1281",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "1281",
+        "entity": "stream_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "extract source code from a small exe file",
+    "entities": [
+      {
+        "start": 0,
+        "end": 41,
+        "value": "extract source code from a small exe file",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "General Workspace",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "General Workspace",
+        "entity": "workspace_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 17,
+        "confidence_entity": 0.6506615373437028,
+        "value": "General Workspace",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "complete the major phases of the lifecycle",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "foundational knowledge of project",
+    "entities": [
+      {
+        "start": 0,
+        "end": 33,
+        "value": "foundational knowledge of project",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "web app",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "web app",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

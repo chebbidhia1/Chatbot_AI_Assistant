@@ -1,0 +1,210 @@
+[
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8878438472747803
+    }
+  },
+  {
+    "text": "jojojo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7916678786277771
+    }
+  },
+  {
+    "text": "good evening",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.29128676652908325
+    }
+  },
+  {
+    "text": "that's what i want",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.9717128872871399
+    }
+  },
+  {
+    "text": "that sounds good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.6289930939674377
+    }
+  },
+  {
+    "text": "i love that",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.47974643111228943
+    }
+  },
+  {
+    "text": "very good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6187463402748108
+    }
+  },
+  {
+    "text": "that's good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.7618774175643921
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.24105744063854218
+    }
+  },
+  {
+    "text": "no i don't accept",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.5337129235267639
+    }
+  },
+  {
+    "text": "you did it wrong",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5244293808937073
+    }
+  },
+  {
+    "text": "and you call yourself bot company? pff",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4527551233768463
+    }
+  },
+  {
+    "text": "awful",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.650540828704834
+    }
+  },
+  {
+    "text": "naima",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2408108413219452
+    }
+  },
+  {
+    "text": "radhouane",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.33437469601631165
+    }
+  },
+  {
+    "text": "Marwa",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.34880390763282776
+    }
+  },
+  {
+    "text": "i am Fiona-May",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5372993350028992
+    }
+  },
+  {
+    "text": "Yosra",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2959320545196533
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.37012678384780884
+    }
+  },
+  {
+    "text": "jasser",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.49951469898223877
+    }
+  },
+  {
+    "text": "i am Emily-Kate",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.41019970178604126
+    }
+  },
+  {
+    "text": "remain marketable in a constantly evolving industry",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4144950211048126
+    }
+  },
+  {
+    "text": "Create and automatically update a data set",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.4702243506908417
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3133215606212616
+    }
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7398179173469543
+    }
+  },
+  {
+    "text": "An unbeatable Tic-Tac-Toe engine",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4687761068344116
+    }
+  }
+]

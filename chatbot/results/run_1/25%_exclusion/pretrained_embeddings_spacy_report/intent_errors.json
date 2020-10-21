@@ -1,0 +1,242 @@
+[
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.437800502697954
+    }
+  },
+  {
+    "text": "jojojo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.47957202304370317
+    }
+  },
+  {
+    "text": "good evening",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2696686324041872
+    }
+  },
+  {
+    "text": "heyho",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8469594275513876
+    }
+  },
+  {
+    "text": "hiii",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.28168122840378457
+    }
+  },
+  {
+    "text": "see you later",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3962565517967512
+    }
+  },
+  {
+    "text": "thank you good bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.3051243472405356
+    }
+  },
+  {
+    "text": "that's what i want",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.3652526072115991
+    }
+  },
+  {
+    "text": "very good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7722406069468681
+    }
+  },
+  {
+    "text": "please",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.49737386823705865
+    }
+  },
+  {
+    "text": "coolio",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5357610233737071
+    }
+  },
+  {
+    "text": "yas",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5136402848776288
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.47957202304370317
+    }
+  },
+  {
+    "text": "no I haven't decided yet if I want to serach",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.48721075464459357
+    }
+  },
+  {
+    "text": "NEIN",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.3485216537764967
+    }
+  },
+  {
+    "text": "I'm not going to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.40316680465513305
+    }
+  },
+  {
+    "text": "never mind",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.34575824041441733
+    }
+  },
+  {
+    "text": "I don't want to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4032010064934164
+    }
+  },
+  {
+    "text": "stop go back",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.26055759000498674
+    }
+  },
+  {
+    "text": "you did it wrong",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3079979754736126
+    }
+  },
+  {
+    "text": "and you call yourself bot company? pff",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.27614949634973607
+    }
+  },
+  {
+    "text": "ok then you cant help me",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.32805410004940466
+    }
+  },
+  {
+    "text": "hm i don't think you can do what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.39636161258345187
+    }
+  },
+  {
+    "text": "and thats all thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.34463795616268156
+    }
+  },
+  {
+    "text": "awful",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.30642607905930225
+    }
+  },
+  {
+    "text": "radhouane",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.38351733232563295
+    }
+  },
+  {
+    "text": "Yosra",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.38351733232563295
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.28769471477739267
+    }
+  },
+  {
+    "text": "jasser",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.38351733232563295
+    }
+  },
+  {
+    "text": "houssem ghorbel",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.38351733232563295
+    }
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.24308304488658905
+    }
+  },
+  {
+    "text": "what up",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.15073208510875702
+    }
+  },
+  {
+    "text": "hello sweet boy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.20227958261966705
+    }
+  },
+  {
+    "text": "hey bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.20969077944755554
+    }
+  },
+  {
+    "text": "jojojo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.2204369604587555
+    }
+  },
+  {
+    "text": "hello friend",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.22282101213932037
+    }
+  },
+  {
+    "text": "heeey",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.374012291431427
+    }
+  },
+  {
+    "text": "good evening",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.42998573184013367
+    }
+  },
+  {
+    "text": "heyho",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18102142214775085
+    }
+  },
+  {
+    "text": "hellooo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.141493558883667
+    }
+  },
+  {
+    "text": "Hey bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.20969077944755554
+    }
+  },
+  {
+    "text": "hey hey",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4168076813220978
+    }
+  },
+  {
+    "text": "see you later",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16675589978694916
+    }
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.38405290246009827
+    }
+  },
+  {
+    "text": "goodbye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.33609962463378906
+    }
+  },
+  {
+    "text": "bye!",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.13562870025634766
+    }
+  },
+  {
+    "text": "great bye bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19356775283813477
+    }
+  },
+  {
+    "text": "thank you good bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.3782522976398468
+    }
+  },
+  {
+    "text": "that's what i want",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.78263258934021
+    }
+  },
+  {
+    "text": "that sounds good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.3693985044956207
+    }
+  },
+  {
+    "text": "i love that",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.22751571238040924
+    }
+  },
+  {
+    "text": "very good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.8896587491035461
+    }
+  },
+  {
+    "text": "obviously",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.14097005128860474
+    }
+  },
+  {
+    "text": "I changed my mind. I want to accept it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8277257680892944
+    }
+  },
+  {
+    "text": "sure thing",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.191634863615036
+    }
+  },
+  {
+    "text": "I accept",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.14665941894054413
+    }
+  },
+  {
+    "text": "cool!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.5307926535606384
+    }
+  },
+  {
+    "text": "yes please!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.1781003475189209
+    }
+  },
+  {
+    "text": "please",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.14288870990276337
+    }
+  },
+  {
+    "text": "coolio",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.3476865589618683
+    }
+  },
+  {
+    "text": "yas",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.12860004603862762
+    }
+  },
+  {
+    "text": "yes accept please",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.18043926358222961
+    }
+  },
+  {
+    "text": "that's good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.3603809177875519
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.12877897918224335
+    }
+  },
+  {
+    "text": "no and no again",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.21728025376796722
+    }
+  },
+  {
+    "text": "NEIN",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.11646662652492523
+    }
+  },
+  {
+    "text": "nah",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.16696588695049286
+    }
+  },
+  {
+    "text": "never mind",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.15379518270492554
+    }
+  },
+  {
+    "text": "never",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16278031468391418
+    }
+  },
+  {
+    "text": "stop go back",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.17580416798591614
+    }
+  },
+  {
+    "text": "you did it wrong",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.24297647178173065
+    }
+  },
+  {
+    "text": "and you call yourself bot company? pff",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.23475487530231476
+    }
+  },
+  {
+    "text": "ok then you cant help me",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.23530805110931396
+    }
+  },
+  {
+    "text": "hm i don't think you can do what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.96602463722229
+    }
+  },
+  {
+    "text": "so sad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.15428760647773743
+    }
+  },
+  {
+    "text": "awful",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.13707104325294495
+    }
+  },
+  {
+    "text": "radhouane",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.14002595841884613
+    }
+  },
+  {
+    "text": "Please call me Linda",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.22652074694633484
+    }
+  },
+  {
+    "text": "tarek abbes",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.18495585024356842
+    }
+  },
+  {
+    "text": "Yosra",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.138089120388031
+    }
+  },
+  {
+    "text": "good morning people call me Amy luiz",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.23014819622039795
+    }
+  },
+  {
+    "text": "Tracy",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18352100253105164
+    }
+  },
+  {
+    "text": "i am Ellen-Kate",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.17875470221042633
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1757632941007614
+    }
+  },
+  {
+    "text": "jasser",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.12161672115325928
+    }
+  },
+  {
+    "text": "houssem ghorbel",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.15580570697784424
+    }
+  },
+  {
+    "text": "houda",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.11893369257450104
+    }
+  },
+  {
+    "text": "Call me Sally",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.1732010841369629
+    }
+  },
+  {
+    "text": "i want to add new task in Task manager",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5677937865257263
+    }
+  },
+  {
+    "text": "A procedurally generated map maker",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.20528434216976166
+    }
+  },
+  {
+    "text": "ws chatbot backbones creation",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.17321790754795074
+    }
+  },
+  {
+    "text": "572",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.13248713314533234
+    }
+  },
+  {
+    "text": "remain marketable in a constantly evolving industry",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.18620096147060394
+    }
+  },
+  {
+    "text": "Create and automatically update a data set",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.2962322235107422
+    }
+  },
+  {
+    "text": "Writing and implementing efficient code",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1831953227519989
+    }
+  },
+  {
+    "text": "optimization",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.13517192006111145
+    }
+  },
+  {
+    "text": "Subcription Logic help for a small movie site ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.2252321094274521
+    }
+  },
+  {
+    "text": "Bandwidth monitor",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.14117653667926788
+    }
+  },
+  {
+    "text": "dependencies injection",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.22586102783679962
+    }
+  },
+  {
+    "text": "Working closely with other developers, UX designers, business and systems analysts",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.25292420387268066
+    }
+  },
+  {
+    "text": "workspace for test",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.19843804836273193
+    }
+  },
+  {
+    "text": "image processing and analysis",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.19480052590370178
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.33651602268218994
+    }
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19184301793575287
+    }
+  },
+  {
+    "text": "upgrade existing software",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18719284236431122
+    }
+  },
+  {
+    "text": "Build a web scraper",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.17987453937530518
+    }
+  },
+  {
+    "text": "Resolve application",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.16379699110984802
+    }
+  },
+  {
+    "text": "Establish the requirements stream here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8702476620674133
+    }
+  },
+  {
+    "text": "Create technical documentation",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2228446751832962
+    }
+  },
+  {
+    "text": "548",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.13248713314533234
+    }
+  },
+  {
+    "text": "An unbeatable Tic-Tac-Toe engine",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.1592749059200287
+    }
+  },
+  {
+    "text": "Identifying areas for modification in existing programs and subsequently developing these modifications",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.20918552577495575
+    }
+  },
+  {
+    "text": "Login authentication ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.1289968341588974
+    }
+  },
+  {
+    "text": "web application creation using node js",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.19512295722961426
+    }
+  },
+  {
+    "text": "Reactnative site customization",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.13487787544727325
+    }
+  }
+]

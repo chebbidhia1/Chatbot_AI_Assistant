@@ -1,0 +1,218 @@
+[
+  {
+    "text": "heyho",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6277305469429919
+    }
+  },
+  {
+    "text": "jojojo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.9538701995808027
+    }
+  },
+  {
+    "text": "hiihihi",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.7710612614338372
+    }
+  },
+  {
+    "text": "hi Mister",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.4629837587382618
+    }
+  },
+  {
+    "text": "Hei",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.9189101776215645
+    }
+  },
+  {
+    "text": "k byyye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5500034413999149
+    }
+  },
+  {
+    "text": "bye was nice talking to you",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.23001084393894916
+    }
+  },
+  {
+    "text": "good night",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.41957946566860016
+    }
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.25007796909419433
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.9538701995808027
+    }
+  },
+  {
+    "text": "okey",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.34728213748763204
+    }
+  },
+  {
+    "text": "oki doki",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.7506245050679052
+    }
+  },
+  {
+    "text": "yes :D",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.30428590075295997
+    }
+  },
+  {
+    "text": "i decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2915010889669147
+    }
+  },
+  {
+    "text": "i don't think so",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3086703099222469
+    }
+  },
+  {
+    "text": "nah",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.33004381035859837
+    }
+  },
+  {
+    "text": "definitely not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.45983772788606064
+    }
+  },
+  {
+    "text": "I don't want to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.31379037294901
+    }
+  },
+  {
+    "text": "stop then ! i am not helping",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2586522269045026
+    }
+  },
+  {
+    "text": "that was bad, you're not helping",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2981479947492295
+    }
+  },
+  {
+    "text": "thanks for forum link, I'll check it out",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.37635905837305905
+    }
+  },
+  {
+    "text": "this is a good proposition thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.41491054085229145
+    }
+  },
+  {
+    "text": "i am sorry for that thank you anyways",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3004576926344361
+    }
+  },
+  {
+    "text": "thanks this is great news",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.39150788392448915
+    }
+  },
+  {
+    "text": "terrible",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.329935867847664
+    }
+  },
+  {
+    "text": "very bad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3972239655524012
+    }
+  },
+  {
+    "text": "Establish the requirements task here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.3659612515032369
+    }
+  }
+]

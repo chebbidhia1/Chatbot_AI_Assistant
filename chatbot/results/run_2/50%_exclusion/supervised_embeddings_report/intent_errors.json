@@ -1,0 +1,234 @@
+[
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7660507559776306
+    }
+  },
+  {
+    "text": "hi there it's me",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18084686994552612
+    }
+  },
+  {
+    "text": "howdy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.27730363607406616
+    }
+  },
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5136024951934814
+    }
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7914930582046509
+    }
+  },
+  {
+    "text": "farewell",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2413579821586609
+    }
+  },
+  {
+    "text": "okey thank you :)",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.9801241159439087
+    }
+  },
+  {
+    "text": "that's great thank you",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.8495917320251465
+    }
+  },
+  {
+    "text": "right on",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.31084558367729187
+    }
+  },
+  {
+    "text": "by all means",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.4429781436920166
+    }
+  },
+  {
+    "text": "i decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5822674632072449
+    }
+  },
+  {
+    "text": "almost",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1727190464735031
+    }
+  },
+  {
+    "text": "contradictorily",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.46732524037361145
+    }
+  },
+  {
+    "text": "I don't want to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.5937452912330627
+    }
+  },
+  {
+    "text": "decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6350536942481995
+    }
+  },
+  {
+    "text": "that's not what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7456995844841003
+    }
+  },
+  {
+    "text": "you suck",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.2403911054134369
+    }
+  },
+  {
+    "text": "and you call yourself bot company? pff",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.22433887422084808
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8316300511360168
+    }
+  },
+  {
+    "text": "Please call me Linda",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.265560507774353
+    }
+  },
+  {
+    "text": "naima",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.26320138573646545
+    }
+  },
+  {
+    "text": "dhia chebbi",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1720392107963562
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2305416613817215
+    }
+  },
+  {
+    "text": "An unbeatable Tic-Tac-Toe engine",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17250855267047882
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5025884509086609
+    }
+  },
+  {
+    "text": "Resolve application",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19968481361865997
+    }
+  },
+  {
+    "text": "Drag the developable task here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.42396387457847595
+    }
+  },
+  {
+    "text": "getting familiar with chatbot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2017606645822525
+    }
+  },
+  {
+    "text": "Complete Website",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.35333383083343506
+    }
+  }
+]

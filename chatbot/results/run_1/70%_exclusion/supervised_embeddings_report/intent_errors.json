@@ -1,0 +1,402 @@
+[
+  {
+    "text": "hi?",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16553068161010742
+    }
+  },
+  {
+    "text": "Hey bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.188268780708313
+    }
+  },
+  {
+    "text": "Hi bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.18276271224021912
+    }
+  },
+  {
+    "text": "hello there",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2108016312122345
+    }
+  },
+  {
+    "text": "yo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16956844925880432
+    }
+  },
+  {
+    "text": "hiihihi",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2061149924993515
+    }
+  },
+  {
+    "text": "hi there",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.34047216176986694
+    }
+  },
+  {
+    "text": "hello is anybody there",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.42670542001724243
+    }
+  },
+  {
+    "text": "hi Mister",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21074236929416656
+    }
+  },
+  {
+    "text": "what up",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.34556832909584045
+    }
+  },
+  {
+    "text": "Heya",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19787679612636566
+    }
+  },
+  {
+    "text": "hey dude",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.20021109282970428
+    }
+  },
+  {
+    "text": "thank you good bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.6848755478858948
+    }
+  },
+  {
+    "text": "tschüssikowski",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.12336301803588867
+    }
+  },
+  {
+    "text": "thank you goodbye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.8052809238433838
+    }
+  },
+  {
+    "text": "assertedly",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.6044255495071411
+    }
+  },
+  {
+    "text": "i accept",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.8509400486946106
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.2058056741952896
+    }
+  },
+  {
+    "text": "okey thank you :)",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.9682738184928894
+    }
+  },
+  {
+    "text": "don't modify anything",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.27635109424591064
+    }
+  },
+  {
+    "text": "jo",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.37120622396469116
+    }
+  },
+  {
+    "text": "no ma'am",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2175932675600052
+    }
+  },
+  {
+    "text": "neither of these",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.31795424222946167
+    }
+  },
+  {
+    "text": "i guess it means - no",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.27346211671829224
+    }
+  },
+  {
+    "text": "sorry, i cannot rephrase",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.23423334956169128
+    }
+  },
+  {
+    "text": "absolutely not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9120309352874756
+    }
+  },
+  {
+    "text": "no i don't accept",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.9529287219047546
+    }
+  },
+  {
+    "text": "you did it wrong",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9183623790740967
+    }
+  },
+  {
+    "text": "ok i guess you can't help me",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1762714385986328
+    }
+  },
+  {
+    "text": "ok then you cant help me",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.2067229449748993
+    }
+  },
+  {
+    "text": "bad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.16940553486347198
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6373476386070251
+    }
+  },
+  {
+    "text": "waleed",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17033137381076813
+    }
+  },
+  {
+    "text": "ann",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.13640612363815308
+    }
+  },
+  {
+    "text": "aisha",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19977320730686188
+    }
+  },
+  {
+    "text": "mourad",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.15794119238853455
+    }
+  },
+  {
+    "text": "i am Silvia-Fern Green",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.32734325528144836
+    }
+  },
+  {
+    "text": "workspace for test",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.1562259942293167
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.28504642844200134
+    }
+  },
+  {
+    "text": "General Workspace",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1785888969898224
+    }
+  },
+  {
+    "text": "Client-side Validation",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.251901239156723
+    }
+  },
+  {
+    "text": "customize an Airtable database",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.17544212937355042
+    }
+  },
+  {
+    "text": "Drag the developable task here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.13170871138572693
+    }
+  },
+  {
+    "text": "A random name generator ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2730207145214081
+    }
+  },
+  {
+    "text": "Complete Website",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.37216222286224365
+    }
+  },
+  {
+    "text": "bot testing",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16595453023910522
+    }
+  },
+  {
+    "text": "build chatbot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.20415104925632477
+    }
+  },
+  {
+    "text": "web app",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.227594792842865
+    }
+  },
+  {
+    "text": "debug",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19547538459300995
+    }
+  },
+  {
+    "text": "Build a web scraper",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.23360083997249603
+    }
+  }
+]

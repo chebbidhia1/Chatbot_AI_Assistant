@@ -1,0 +1,346 @@
+[
+  {
+    "text": "good evening",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.20915968716144562
+    }
+  },
+  {
+    "text": "hallo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.23461343348026276
+    }
+  },
+  {
+    "text": "yoo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17940320074558258
+    }
+  },
+  {
+    "text": "jop",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.501183032989502
+    }
+  },
+  {
+    "text": "howdy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1377824991941452
+    }
+  },
+  {
+    "text": "toodle-oo",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1523619294166565
+    }
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.24555480480194092
+    }
+  },
+  {
+    "text": "see you later",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.2239287793636322
+    }
+  },
+  {
+    "text": "right on",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.16625502705574036
+    }
+  },
+  {
+    "text": "cool",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.6548704504966736
+    }
+  },
+  {
+    "text": "great !",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.16551107168197632
+    }
+  },
+  {
+    "text": "perfect !",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.17738944292068481
+    }
+  },
+  {
+    "text": "amayzing",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2915780544281006
+    }
+  },
+  {
+    "text": "go for it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.24685660004615784
+    }
+  },
+  {
+    "text": "please",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3530327379703522
+    }
+  },
+  {
+    "text": "amazing!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2992853820323944
+    }
+  },
+  {
+    "text": "ja",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.17120538651943207
+    }
+  },
+  {
+    "text": "hm, i'd like that",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2520753741264343
+    }
+  },
+  {
+    "text": "no need to modify anything",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4564744830131531
+    }
+  },
+  {
+    "text": "i'm not sure",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7836805582046509
+    }
+  },
+  {
+    "text": "nah",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.14984554052352905
+    }
+  },
+  {
+    "text": "i decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3329951763153076
+    }
+  },
+  {
+    "text": "stop go back",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3199481964111328
+    }
+  },
+  {
+    "text": "this conversation is not really helpful",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.15601757168769836
+    }
+  },
+  {
+    "text": "ok then you cant help me",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2928680181503296
+    }
+  },
+  {
+    "text": "nothing else?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5014975666999817
+    }
+  },
+  {
+    "text": "you can't help me with what i need",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.1888367384672165
+    }
+  },
+  {
+    "text": "thank you anyways",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.26938727498054504
+    }
+  },
+  {
+    "text": "yes thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5718902945518494
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.33095574378967285
+    }
+  },
+  {
+    "text": "waleed",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17015375196933746
+    }
+  },
+  {
+    "text": "Anis",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17849522829055786
+    }
+  },
+  {
+    "text": "suleiman",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1871972382068634
+    }
+  },
+  {
+    "text": "houssem ghorbel",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.18347743153572083
+    }
+  },
+  {
+    "text": "build chatbot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.17956402897834778
+    }
+  },
+  {
+    "text": "ws chatbot backbones creation",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.31332334876060486
+    }
+  },
+  {
+    "text": "Build First Node App",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2625110149383545
+    }
+  },
+  {
+    "text": "Drag the task that requires UI design here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.4115918278694153
+    }
+  },
+  {
+    "text": "Troubleshoot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1490224450826645
+    }
+  },
+  {
+    "text": "Drag the task that requires the product design here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.3851805627346039
+    }
+  },
+  {
+    "text": "Achieving Quality of Service and Quality of Life in the Grid",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.36154264211654663
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.1712086796760559
+    }
+  },
+  {
+    "text": "web app",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3105180263519287
+    }
+  }
+]

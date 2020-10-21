@@ -1,0 +1,186 @@
+[
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7072619199752808
+    }
+  },
+  {
+    "text": "howdy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5273555517196655
+    }
+  },
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6743391156196594
+    }
+  },
+  {
+    "text": "farewell",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.495057076215744
+    }
+  },
+  {
+    "text": "ja",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.43858635425567627
+    }
+  },
+  {
+    "text": "okey thank you :)",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.9980177879333496
+    }
+  },
+  {
+    "text": "indeed",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.28452974557876587
+    }
+  },
+  {
+    "text": "that's great thank you",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.9937424063682556
+    }
+  },
+  {
+    "text": "go for it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.2990456521511078
+    }
+  },
+  {
+    "text": "by all means",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.5437028408050537
+    }
+  },
+  {
+    "text": "i decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5367096662521362
+    }
+  },
+  {
+    "text": "almost",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.39029660820961
+    }
+  },
+  {
+    "text": "contradictorily",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8497712016105652
+    }
+  },
+  {
+    "text": "decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.48717087507247925
+    }
+  },
+  {
+    "text": "hm i don't think you can do what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.941859781742096
+    }
+  },
+  {
+    "text": "that's not what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.800917387008667
+    }
+  },
+  {
+    "text": "you suck",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.4643419682979584
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.844052255153656
+    }
+  },
+  {
+    "text": "hello I am omar ahmed",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6139270067214966
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5657665729522705
+    }
+  },
+  {
+    "text": "explore new features of this program",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.20308661460876465
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6822635531425476
+    }
+  },
+  {
+    "text": "Create a text message downtime alerter",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.44885626435279846
+    }
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "text": "Sweet",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.5935469971683778,
+        "value": "Sweet",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "boutheina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "boutheina",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "nada nefzi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "nada nefzi",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "syrine slouli",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "syrine slouli",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "salah ali",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "salah ali",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "suleiman",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "suleiman",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "radhouane",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "radhouane",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "extract source code from a small exe file",
+    "entities": [
+      {
+        "start": 0,
+        "end": 41,
+        "value": "extract source code from a small exe file",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 124,
+        "value": "a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "upgrade existing software",
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "value": "upgrade existing software",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "financial independence calculator",
+    "entities": [
+      {
+        "start": 0,
+        "end": 33,
+        "value": "financial independence calculator",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "action create task with chatbot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "action create task with chatbot",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Create technical documentation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "value": "Create technical documentation",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 30,
+        "confidence_entity": 0.6088626299740453,
+        "value": "Create technical documentation",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "20",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "20",
+        "entity": "task_priority"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": " functional specifications for projects.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 40,
+        "value": " functional specifications for projects.",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "integrated development environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "integrated development environment",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Establish the requirements task here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "Establish the requirements task here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "stream_name",
+        "start": 0,
+        "end": 26,
+        "confidence_entity": 0.34428626070623963,
+        "value": "Establish the requirements",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "enrich knowledge about graphql",
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "value": "enrich knowledge about graphql",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Minor modifications to existing PHP website.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 44,
+        "value": "Minor modifications to existing PHP website.",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "IOT Platform Data Modeling Architect",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "924",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "924",
+        "entity": "ws_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Working closely with other developers, UX designers, business and systems analysts",
+    "entities": [
+      {
+        "start": 0,
+        "end": 82,
+        "value": "Working closely with other developers, UX designers, business and systems analysts",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_description",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.4489118909246184,
+        "value": "Working",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "complete the major phases of the lifecycle",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Planning and Design",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "Planning and Design",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_description",
+        "start": 0,
+        "end": 19,
+        "confidence_entity": 0.467732173919876,
+        "value": "Planning and Design",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "bot testing",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "bot testing",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "web project management",
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "value": "web project management",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "curate survey responses: editing, translating, ranking",
+    "entities": [
+      {
+        "start": 0,
+        "end": 54,
+        "value": "curate survey responses: editing, translating, ranking",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "deploy programs",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "deploy programs",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

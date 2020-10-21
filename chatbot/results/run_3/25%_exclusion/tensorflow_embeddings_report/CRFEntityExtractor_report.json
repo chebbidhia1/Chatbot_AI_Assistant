@@ -1,0 +1,62 @@
+{
+  "task_name": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 34
+  },
+  "task_priority": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "stream_name": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 29
+  },
+  "workspace_name": {
+    "precision": 0.7083333333333334,
+    "recall": 0.5862068965517241,
+    "f1-score": 0.6415094339622641,
+    "support": 29
+  },
+  "ws_id": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "workspace_description": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 29
+  },
+  "name": {
+    "precision": 0.9772727272727273,
+    "recall": 0.8958333333333334,
+    "f1-score": 0.9347826086956522,
+    "support": 96
+  },
+  "micro avg": {
+    "precision": 0.8956521739130435,
+    "recall": 0.4703196347031963,
+    "f1-score": 0.6167664670658682,
+    "support": 219
+  },
+  "macro avg": {
+    "precision": 0.2408008658008658,
+    "recall": 0.2117200328407225,
+    "f1-score": 0.22518457752255946,
+    "support": 219
+  },
+  "weighted avg": {
+    "precision": 0.5221910889719109,
+    "recall": 0.4703196347031963,
+    "f1-score": 0.4947164567109053,
+    "support": 219
+  }
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4997388422489166
+    }
+  },
+  {
+    "text": "hi there it's me",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.289969265460968
+    }
+  },
+  {
+    "text": "howdy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.2416079342365265
+    }
+  },
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6865203380584717
+    }
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8677929043769836
+    }
+  },
+  {
+    "text": "farewell",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2664606273174286
+    }
+  },
+  {
+    "text": "ja",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.16627280414104462
+    }
+  },
+  {
+    "text": "okey thank you :)",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.9581031799316406
+    }
+  },
+  {
+    "text": "that's great thank you",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.8996475338935852
+    }
+  },
+  {
+    "text": "go for it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.4159490466117859
+    }
+  },
+  {
+    "text": "by all means",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.35736173391342163
+    }
+  },
+  {
+    "text": "i decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3484475612640381
+    }
+  },
+  {
+    "text": "almost",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.17428046464920044
+    }
+  },
+  {
+    "text": "contradictorily",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8889911770820618
+    }
+  },
+  {
+    "text": "decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.3452313244342804
+    }
+  },
+  {
+    "text": "hm i don't think you can do what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8272708058357239
+    }
+  },
+  {
+    "text": "that's not what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8328644037246704
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6496369242668152
+    }
+  },
+  {
+    "text": "naima",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1842937022447586
+    }
+  },
+  {
+    "text": "hello hello my name is linda fuller",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9617028832435608
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.46177417039871216
+    }
+  },
+  {
+    "text": "An unbeatable Tic-Tac-Toe engine",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.3224888741970062
+    }
+  },
+  {
+    "text": "explore new features of this program",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.49368688464164734
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4834529161453247
+    }
+  },
+  {
+    "text": "Create a text message downtime alerter",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.3455282747745514
+    }
+  },
+  {
+    "text": "Complete Website",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.43101850152015686
+    }
+  }
+]

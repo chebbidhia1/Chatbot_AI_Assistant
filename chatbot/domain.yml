@@ -1,0 +1,191 @@
+actions:
+- action_create_task
+- action_create_stream
+- action_create_workspace
+- utter_ask_howcanhelp
+- utter_ask_org_id
+- utter_ask_stream_id
+- utter_ask_task_name
+- utter_ask_task_priority
+- utter_ask_ws_id
+- utter_ask_stream_name
+- utter_did_that_help
+- utter_goodbye
+- utter_greet
+- utter_happy
+- utter_iamabot
+- utter_submit
+- utter_ask_continue
+- utter_sorry
+- utter_accept_create_stream
+- utter_wrong_workspace_type
+- utter_ask_workspace_type
+- utter_wrong_workspace_name
+- utter_ask_workspace_name
+- utter_ask_workspace_description
+- utter_change_path
+
+
+entities:
+- name
+- org_id
+- stream_id
+- task_name
+- task_priority
+- ws_id
+- stream_name
+- workspace_name
+- workspace_description
+- workspace_type
+forms:
+- create_task_form
+- create_stream_form
+- create_workspace_form
+
+intents:
+- affirm
+- create_task
+- greet
+- name
+- goodbye
+- inform
+- deny
+- mood_unhappy
+- bot_challenge
+- thankyou
+- stop
+- create_stream
+- create_workspace
+- change_path
+    
+
+
+slots:
+  name:
+    type: unfeaturized
+
+  org_id:
+    type: unfeaturized
+
+  requested_slot:
+    type: unfeaturized
+
+  stream_id:
+    type: unfeaturized
+    auto_fill: True
+
+  task_name:
+    type: unfeaturized
+  
+  stream_name:
+    type: unfeaturized
+  
+  workspace_type:
+    type: categorical
+    values:
+    - 'General Workspace'
+    - 'Agile Development'
+
+  task_priority:
+    type: categorical
+    values:
+    - '0'
+    - '10'
+    - '20'
+    - '30'
+
+  ws_id:
+    type: unfeaturized
+  
+  workspace_description:
+    type: unfeaturized
+  
+  workspace_name:
+    type: unfeaturized
+  
+    
+templates:
+  utter_ask_howcanhelp:
+  - text: Nice to you meet you {name}. How can I help you?
+
+  utter_ask_org_id:
+  - text: please select one organisation
+
+  utter_ask_stream_id:
+  - text: please select one stream
+
+  utter_ask_task_name:
+  - text: provide me with the task name please
+
+  utter_ask_stream_name:
+  - text: provide me with the stream name please  
+
+  utter_ask_task_priority:
+  - buttons:
+    - payload: '/inform{"task_priority": "30"}'
+      title: Urgent
+    - payload: '/inform{"task_priority": "20"}'
+      title: High
+    - payload: '/inform{"task_priority": "10"}'
+      title: Normal
+    - payload: '/inform{"task_priority": "0"}'
+      title: Low
+    text: please select the task priority
+  
+  utter_ask_workspace_type:
+  - buttons:
+    - payload: '/inform{"workspace_type": "Agile Development"}'
+      title: Agile Development
+    - payload: '/inform{"workspace_type": "General Workspace"}'
+      title: General Workspace
+    text: please select the workspace type
+
+  utter_ask_ws_id:
+  - text: please select one workspace
+
+  utter_ask_workspace_name:
+  - text: please enter the workspace name
+
+  utter_ask_workspace_description:
+  - text: please enter the workspace description
+
+  utter_default:
+  - text: I'm sorry, I didn't understand you 😢. Can you rephrase it?
+
+  utter_did_that_help:
+  - text: Did that help you?
+
+  utter_goodbye:
+  - text: It was nice talking to you {name}. Bye Bye 😄
+
+  utter_greet:
+  - text: Hey! tell me your name
+
+  utter_happy:
+  - text: Great, carry on!
+
+  utter_iamabot:
+  - text: I am a bot, powered by Target.
+
+  utter_submit:
+  - text: All done! 👌
+
+  utter_wrong_task_priority:
+  - text: please try a valid task priority
+ 
+  utter_wrong_workspace_type:
+  - text: please try a valid workspace type
+
+  utter_wrong_workspace_name:
+  - text: workspace name duplicated please try a valid workspace name
+
+  utter_ask_continue:
+  - text: do you still want to advance in the conversation? 🤔
+
+  utter_sorry:
+  - text: I’m sorry this is a frustrating experience for you 😢, bye
+  utter_accept_create_stream:
+  - text: can you select the organisation please
+
+  utter_change_path:
+  - text: ok , you can change your path

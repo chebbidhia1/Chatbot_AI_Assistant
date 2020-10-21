@@ -1,0 +1,386 @@
+[
+  {
+    "text": "hey dude",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3052951693534851
+    }
+  },
+  {
+    "text": "heyho",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.19287645816802979
+    }
+  },
+  {
+    "text": "jojojo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9428941607475281
+    }
+  },
+  {
+    "text": "Hei",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17001058161258698
+    }
+  },
+  {
+    "text": "bye was nice talking to you",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.47741085290908813
+    }
+  },
+  {
+    "text": "good night",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5782826542854309
+    }
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.21700702607631683
+    }
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4245600998401642
+    }
+  },
+  {
+    "text": "really",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.16743692755699158
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.34849050641059875
+    }
+  },
+  {
+    "text": "okey",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.15449009835720062
+    }
+  },
+  {
+    "text": "yes please!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.16575010120868683
+    }
+  },
+  {
+    "text": "undoubtedly",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.17735257744789124
+    }
+  },
+  {
+    "text": "oki doki",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.12170705199241638
+    }
+  },
+  {
+    "text": "yes barbecue food",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.27135661244392395
+    }
+  },
+  {
+    "text": "yes can i have",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2324925810098648
+    }
+  },
+  {
+    "text": "done",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1851666420698166
+    }
+  },
+  {
+    "text": "i decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18778285384178162
+    }
+  },
+  {
+    "text": "i don't think so",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.4104362428188324
+    }
+  },
+  {
+    "text": "absolutely not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9524723887443542
+    }
+  },
+  {
+    "text": "nah",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.14637444913387299
+    }
+  },
+  {
+    "text": "i'm not sure",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9496637582778931
+    }
+  },
+  {
+    "text": "I don't want to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.5209574699401855
+    }
+  },
+  {
+    "text": "stop",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.3745470941066742
+    }
+  },
+  {
+    "text": "stop then ! i am not helping",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.1978236585855484
+    }
+  },
+  {
+    "text": "perfect thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6279228329658508
+    }
+  },
+  {
+    "text": "terrible",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.18854764103889465
+    }
+  },
+  {
+    "text": "very bad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8139871954917908
+    }
+  },
+  {
+    "text": "boutheina",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.12360889464616776
+    }
+  },
+  {
+    "text": "i am Silvia-Fern Green",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7908239960670471
+    }
+  },
+  {
+    "text": "Yosra",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.12279543280601501
+    }
+  },
+  {
+    "text": "i am jalel aloui",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6061778664588928
+    }
+  },
+  {
+    "text": "syrine slouli",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.14250598847866058
+    }
+  },
+  {
+    "text": "i am Daphne-Jane",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.37526997923851013
+    }
+  },
+  {
+    "text": "suleiman",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.22133797407150269
+    }
+  },
+  {
+    "text": "radhouane",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.14883871376514435
+    }
+  },
+  {
+    "text": "A tax forecaster ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2004919797182083
+    }
+  },
+  {
+    "text": "extract source code from a small exe file",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8462485074996948
+    }
+  },
+  {
+    "text": "Create a text message downtime alerter",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.24090178310871124
+    }
+  },
+  {
+    "text": "action create task with chatbot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.8459893465042114
+    }
+  },
+  {
+    "text": "Create technical documentation",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.4158352017402649
+    }
+  },
+  {
+    "text": "Audit Your Site With Lighthouse",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.26862427592277527
+    }
+  },
+  {
+    "text": "Establish the requirements task here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.3958028256893158
+    }
+  },
+  {
+    "text": "enrich knowledge about graphql",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.37735292315483093
+    }
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.33395251631736755
+    }
+  },
+  {
+    "text": "Implement a cipher ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2501727342605591
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6856428980827332
+    }
+  },
+  {
+    "text": "bot testing",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.48533692955970764
+    }
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "text": "Sure",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.4408614939352222,
+        "value": "Sure",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "houssem ghorbel",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "houssem ghorbel",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "radhi brahim",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "radhi brahim",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "kamel tounsi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "kamel tounsi",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You can call me Sam bowie",
+    "entities": [
+      {
+        "start": 16,
+        "end": 25,
+        "value": "Sam bowie",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "naima",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "naima",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "dhia chebbi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "dhia chebbi",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "tlili ahmed",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "tlili ahmed",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "houda",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "houda",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Enter a data science competition",
+    "entities": [
+      {
+        "start": 0,
+        "end": 32,
+        "value": "Enter a data science competition",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Building Microservices with Reno",
+    "entities": [
+      {
+        "start": 0,
+        "end": 32,
+        "value": "Building Microservices with Reno",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_description",
+        "start": 0,
+        "end": 32,
+        "confidence_entity": 0.2581109746325776,
+        "value": "Building Microservices with Reno",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "An unbeatable Tic-Tac-Toe engine",
+    "entities": [
+      {
+        "start": 0,
+        "end": 32,
+        "value": "An unbeatable Tic-Tac-Toe engine",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Dealing with Non-existent Posts",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "Dealing with Non-existent Posts",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_description",
+        "start": 0,
+        "end": 31,
+        "confidence_entity": 0.20687232755154392,
+        "value": "Dealing with Non-existent Posts",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Minor modifications to existing PHP website.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 44,
+        "value": "Minor modifications to existing PHP website.",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "deploy programs",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "deploy programs",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "explore new features of this program",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "explore new features of this program",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "complete the major phases of the lifecycle",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Resolve application",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "Resolve application",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Small Ultra Simple Windows Program ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 35,
+        "value": "Small Ultra Simple Windows Program ",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 34,
+        "confidence_entity": 0.39393252163907944,
+        "value": "Small Ultra Simple Windows Program",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "web application creation using node js",
+    "entities": [
+      {
+        "start": 0,
+        "end": 38,
+        "value": "web application creation using node js",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "548",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "548",
+        "entity": "org_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Create a text message downtime alerter",
+    "entities": [
+      {
+        "start": 0,
+        "end": 38,
+        "value": "Create a text message downtime alerter",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "integrated development environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "integrated development environment",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "1281",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "1281",
+        "entity": "stream_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Build a simple operating system",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "Build a simple operating system",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.4045429258737825,
+        "value": "Build a",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Deploying software tools, processes and metrics",
+    "entities": [
+      {
+        "start": 0,
+        "end": 47,
+        "value": "Deploying software tools, processes and metrics",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "A net worth calculator and tracker",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "A net worth calculator and tracker",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "optimization",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "optimization",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "migration for the test environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "migration for the test environment",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "A bill splitter (suggested implementation: mobile app)",
+    "entities": [
+      {
+        "start": 0,
+        "end": 54,
+        "value": "A bill splitter (suggested implementation: mobile app)",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "getting familiar with chatbot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "getting familiar with chatbot",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Complete Website",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "value": "Complete Website",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 16,
+        "confidence_entity": 0.5507101944518621,
+        "value": "Complete Website",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  }
+]

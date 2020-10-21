@@ -1,0 +1,73 @@
+## get user organisation
+{
+  meOrganizations() {
+    ID,
+    Name
+  } 
+}
+
+## get organisations' ws
+{
+  meWorkspacesByOrganization(organizationID : "2") {
+    workspaces{
+      id,
+      name,
+      streams{
+        streams{
+          id,
+          name
+        }
+      }
+    }
+  }
+}
+
+## add stream by wsId and name
+mutation addStream($wsID: ID!, $name: String!) {
+  createNewStream(input: {wsID: $wsID, name: $name}) {
+    id
+    name
+  }
+}
+
+query variables
+{
+	"wsID": 1287,
+	"name": "nada strem 2"
+}
+
+## add task
+mutation addTask($name: String!, $streamID: ID!, $priority: Int, $activityText: String) {
+  createNewTask(input: {streamID: $streamID, name: $name, priority: $priority, activityText: $activityText}) {
+    id
+    name
+  }
+}
+
+query variables
+{
+	"name": "nada task 2",
+	"streamID": 1281,
+	"priority": 20,
+	"activityText": "{'type':'created_task','data':{'name':'nada task 2'}}"
+}
+
+## add ws
+mutation createWorkspaceWithTemplate($input: CreateWorkspaceWithTemplateInput!) {
+  createWorkspaceWithTemplate(input: $input) {
+    id
+    name
+  }
+}
+
+query variables
+{
+	"input": {
+		"name": "workspace chatbot development 3",
+		"startDate": "2020-06-24T23:00:00.000Z",
+		"endDate": "2020-07-30T23:00:00.000Z",
+		"description": "a contextual AI assistant to automate full conversations in workspace 2",
+		"coverURL": "bgIndex=1000",
+		"organizationID": "548"
+	}
+}

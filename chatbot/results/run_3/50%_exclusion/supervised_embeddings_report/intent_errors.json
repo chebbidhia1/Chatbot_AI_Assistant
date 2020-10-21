@@ -1,0 +1,298 @@
+[
+  {
+    "text": "Whats up my bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.28741055727005005
+    }
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.23762409389019012
+    }
+  },
+  {
+    "text": "what up",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.611565887928009
+    }
+  },
+  {
+    "text": "howdy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.24466940760612488
+    }
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.22341153025627136
+    }
+  },
+  {
+    "text": "toodle-oo",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.2498328983783722
+    }
+  },
+  {
+    "text": "positively",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1859329640865326
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.160602867603302
+    }
+  },
+  {
+    "text": "definitely",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22035430371761322
+    }
+  },
+  {
+    "text": "done",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.2971906065940857
+    }
+  },
+  {
+    "text": "please",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.30974864959716797
+    }
+  },
+  {
+    "text": "nah thanks",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.8721300363540649
+    }
+  },
+  {
+    "text": "i don't want to",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.40938910841941833
+    }
+  },
+  {
+    "text": "almost",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.24573184549808502
+    }
+  },
+  {
+    "text": "nothing else?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3099590241909027
+    }
+  },
+  {
+    "text": "do you get anything?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9289408922195435
+    }
+  },
+  {
+    "text": "and that's it?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8742898106575012
+    }
+  },
+  {
+    "text": "cheers",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2773251533508301
+    }
+  },
+  {
+    "text": "cheers bro",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.21256603300571442
+    }
+  },
+  {
+    "text": "very sad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8087063431739807
+    }
+  },
+  {
+    "text": "bad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.15084710717201233
+    }
+  },
+  {
+    "text": "Marwa",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16175934672355652
+    }
+  },
+  {
+    "text": "i am Silvia-Fern Green",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5993281602859497
+    }
+  },
+  {
+    "text": "fatma",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.15513484179973602
+    }
+  },
+  {
+    "text": "dhia chebbi",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.2402578741312027
+    }
+  },
+  {
+    "text": "i am salwa bey",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.586453378200531
+    }
+  },
+  {
+    "text": "Hi ! People call me Greg adams",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2912798225879669
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5727818012237549
+    }
+  },
+  {
+    "text": "Call me Sally",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8213495016098022
+    }
+  },
+  {
+    "text": "Put Projects Under Version Control",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.7516130208969116
+    }
+  },
+  {
+    "text": "master forms on rasa",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.38664713501930237
+    }
+  },
+  {
+    "text": "action create task with chatbot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.6976191401481628
+    }
+  },
+  {
+    "text": "A niche chatbot  ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.1836240291595459
+    }
+  },
+  {
+    "text": "creating a new workspace type",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.64720618724823
+    }
+  },
+  {
+    "text": "JavaScript quiz game ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.5374284386634827
+    }
+  },
+  {
+    "text": "Troubleshoot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.14764511585235596
+    }
+  },
+  {
+    "text": "Pixel art generator",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18780817091464996
+    }
+  }
+]

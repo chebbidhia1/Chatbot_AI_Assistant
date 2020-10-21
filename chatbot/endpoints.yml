@@ -1,0 +1,4 @@
+# Server which runs your custom actions.
+
+action_endpoint:
+  url: "http://localhost:5055/webhook"

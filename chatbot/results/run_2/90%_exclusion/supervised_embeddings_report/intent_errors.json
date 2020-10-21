@@ -1,0 +1,674 @@
+[
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.18269315361976624
+    }
+  },
+  {
+    "text": "Heya",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.17030684649944305
+    }
+  },
+  {
+    "text": "hi?",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.16469672322273254
+    }
+  },
+  {
+    "text": "hi there it's me",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.23699937760829926
+    }
+  },
+  {
+    "text": "hi",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.16469672322273254
+    }
+  },
+  {
+    "text": "Hei",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.16932521760463715
+    }
+  },
+  {
+    "text": "howdy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.16379329562187195
+    }
+  },
+  {
+    "text": "greetings",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.15421830117702484
+    }
+  },
+  {
+    "text": "heyho",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.19024251401424408
+    }
+  },
+  {
+    "text": "hiii",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1666519194841385
+    }
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.14777952432632446
+    }
+  },
+  {
+    "text": "good bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18815194070339203
+    }
+  },
+  {
+    "text": "k byyye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.1600465327501297
+    }
+  },
+  {
+    "text": "farewell",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.17698948085308075
+    }
+  },
+  {
+    "text": "talk to you later",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.19455023109912872
+    }
+  },
+  {
+    "text": "bye udo",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18294382095336914
+    }
+  },
+  {
+    "text": "ja",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.14257651567459106
+    }
+  },
+  {
+    "text": "okey thank you :)",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.96541827917099
+    }
+  },
+  {
+    "text": "positively",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1674070656299591
+    }
+  },
+  {
+    "text": "Sure",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.15969383716583252
+    }
+  },
+  {
+    "text": "indeed",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.1622447669506073
+    }
+  },
+  {
+    "text": "I changed my mind. I want to accept it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.2106301337480545
+    }
+  },
+  {
+    "text": "ok i accept",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.24479423463344574
+    }
+  },
+  {
+    "text": "avowedly",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.16439267992973328
+    }
+  },
+  {
+    "text": "that's great thank you",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.692065954208374
+    }
+  },
+  {
+    "text": "right on",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2023719698190689
+    }
+  },
+  {
+    "text": "definitely",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.17422299087047577
+    }
+  },
+  {
+    "text": "nice",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.18857255578041077
+    }
+  },
+  {
+    "text": "i will!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1788339912891388
+    }
+  },
+  {
+    "text": "okey",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.5681031346321106
+    }
+  },
+  {
+    "text": "go for it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2749424874782562
+    }
+  },
+  {
+    "text": "by all means",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.19590948522090912
+    }
+  },
+  {
+    "text": "contradictorily",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1971692442893982
+    }
+  },
+  {
+    "text": "I don't want to give it to you",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "create_task",
+      "confidence": 0.25975722074508667
+    }
+  },
+  {
+    "text": "nah thanks",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.2714444696903229
+    }
+  },
+  {
+    "text": "ok, but that doesnt help me",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.2500755190849304
+    }
+  },
+  {
+    "text": "hm i don't think you can do what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.26627618074417114
+    }
+  },
+  {
+    "text": "that's not what i want",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3304256200790405
+    }
+  },
+  {
+    "text": "you suck",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.3797425329685211
+    }
+  },
+  {
+    "text": "and you call yourself bot company? pff",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.2043648213148117
+    }
+  },
+  {
+    "text": "thanks for forum link, I'll check it out",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2928818166255951
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3974578082561493
+    }
+  },
+  {
+    "text": "Please call me Linda",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2952267825603485
+    }
+  },
+  {
+    "text": "I'm mohamed omar",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.170074000954628
+    }
+  },
+  {
+    "text": "jojojo I am Charlie",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.19720280170440674
+    }
+  },
+  {
+    "text": "i am Fiona-Maeve",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2312696874141693
+    }
+  },
+  {
+    "text": "houssem ghorbel",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.17896690964698792
+    }
+  },
+  {
+    "text": "radhi brahim",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.1648460328578949
+    }
+  },
+  {
+    "text": "I am houssem ghorbel",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.16962754726409912
+    }
+  },
+  {
+    "text": "i am Ava-Louise",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1627289354801178
+    }
+  },
+  {
+    "text": "Evan-Grant Hill",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.24802358448505402
+    }
+  },
+  {
+    "text": "hello I am omar ahmed",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.2302239090204239
+    }
+  },
+  {
+    "text": "kamel tounsi",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2047233134508133
+    }
+  },
+  {
+    "text": "You can call me Sam bowie",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.19058264791965485
+    }
+  },
+  {
+    "text": "Tracy",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.15519601106643677
+    }
+  },
+  {
+    "text": "i am Phoebe-Anne Perez",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.19493234157562256
+    }
+  },
+  {
+    "text": "i am Ella-Jane",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.19639623165130615
+    }
+  },
+  {
+    "text": "I'm Tracy",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.17135509848594666
+    }
+  },
+  {
+    "text": "naima",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.19754135608673096
+    }
+  },
+  {
+    "text": "i am Lara-Margaret",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1691569834947586
+    }
+  },
+  {
+    "text": "hi, I'm mohamed omar",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.16940838098526
+    }
+  },
+  {
+    "text": "dhia chebbi",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.1555424928665161
+    }
+  },
+  {
+    "text": "i am Emily-Kate",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.19877731800079346
+    }
+  },
+  {
+    "text": "houda",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.16050748527050018
+    }
+  },
+  {
+    "text": "i am Nora-Michelle Martin",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.23056979477405548
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.161016583442688
+    }
+  },
+  {
+    "text": "Building Microservices with Reno",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.22713546454906464
+    }
+  },
+  {
+    "text": "An unbeatable Tic-Tac-Toe engine",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.23061183094978333
+    }
+  },
+  {
+    "text": "Dealing with Non-existent Posts",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2410896271467209
+    }
+  },
+  {
+    "text": "Minor modifications to existing PHP website.",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.16189396381378174
+    }
+  },
+  {
+    "text": "deploy programs",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.12781663239002228
+    }
+  },
+  {
+    "text": "explore new features of this program",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.13604386150836945
+    }
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.27489495277404785
+    }
+  },
+  {
+    "text": "Resolve application",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2028845250606537
+    }
+  },
+  {
+    "text": "548",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.15708468854427338
+    }
+  },
+  {
+    "text": "Developing quality assurance procedures",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.12101960927248001
+    }
+  },
+  {
+    "text": "Drag the developable task here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.23102621734142303
+    }
+  },
+  {
+    "text": "integrated development environment",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3338075876235962
+    }
+  },
+  {
+    "text": "1281",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.15708468854427338
+    }
+  },
+  {
+    "text": "A net worth calculator and tracker",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.18698766827583313
+    }
+  },
+  {
+    "text": "optimization",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.1393834501504898
+    }
+  },
+  {
+    "text": "A bill splitter (suggested implementation: mobile app)",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.131292462348938
+    }
+  },
+  {
+    "text": "getting familiar with chatbot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.19568032026290894
+    }
+  },
+  {
+    "text": "Complete Website",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.17418967187404633
+    }
+  }
+]

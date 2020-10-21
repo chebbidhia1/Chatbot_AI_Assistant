@@ -1,0 +1,442 @@
+[
+  {
+    "text": "Whats up my bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.3723496198654175
+    }
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.5802994966506958
+    }
+  },
+  {
+    "text": "Hi bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.430915892124176
+    }
+  },
+  {
+    "text": "what up",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6656473875045776
+    }
+  },
+  {
+    "text": "howdy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.16615305840969086
+    }
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21202637255191803
+    }
+  },
+  {
+    "text": "bye!",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2149096578359604
+    }
+  },
+  {
+    "text": "bye udo",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.14649875462055206
+    }
+  },
+  {
+    "text": "bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2149096578359604
+    }
+  },
+  {
+    "text": "toodle-oo",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.18786096572875977
+    }
+  },
+  {
+    "text": "bye bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2945326566696167
+    }
+  },
+  {
+    "text": "i don't want to change anything",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4781692326068878
+    }
+  },
+  {
+    "text": "yeah i need to find",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.30951932072639465
+    }
+  },
+  {
+    "text": "I'm sure I will!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.15253901481628418
+    }
+  },
+  {
+    "text": "oh awesome!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1634489893913269
+    }
+  },
+  {
+    "text": "i don't want to modify anything , every thing is fine",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.34677016735076904
+    }
+  },
+  {
+    "text": "i can affirm the search",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2617383301258087
+    }
+  },
+  {
+    "text": "yop",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.16580748558044434
+    }
+  },
+  {
+    "text": "I'm good",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.4484614133834839
+    }
+  },
+  {
+    "text": "done",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.22821611166000366
+    }
+  },
+  {
+    "text": "please",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.6664825081825256
+    }
+  },
+  {
+    "text": "i will!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.12487179040908813
+    }
+  },
+  {
+    "text": "nah thanks",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.877411425113678
+    }
+  },
+  {
+    "text": "No, not really.",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5524858236312866
+    }
+  },
+  {
+    "text": "almost",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.15376751124858856
+    }
+  },
+  {
+    "text": "nothing else?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.17808805406093597
+    }
+  },
+  {
+    "text": "do you get anything?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2141350358724594
+    }
+  },
+  {
+    "text": "that was bad, you're not helping",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.24335822463035583
+    }
+  },
+  {
+    "text": "and that's it?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5554134845733643
+    }
+  },
+  {
+    "text": "cheers",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.35992857813835144
+    }
+  },
+  {
+    "text": "cheers bro",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.36486202478408813
+    }
+  },
+  {
+    "text": "very sad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.32215073704719543
+    }
+  },
+  {
+    "text": "bad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.12847617268562317
+    }
+  },
+  {
+    "text": "Marwa",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.15247957408428192
+    }
+  },
+  {
+    "text": "People call me Greg adams",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.21905800700187683
+    }
+  },
+  {
+    "text": "fatma",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.12266213446855545
+    }
+  },
+  {
+    "text": "dhia chebbi",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17410944402217865
+    }
+  },
+  {
+    "text": "Hi ! People call me Greg adams",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.22530505061149597
+    }
+  },
+  {
+    "text": "nada nefzi",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.26686665415763855
+    }
+  },
+  {
+    "text": "salah ali",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.19984611868858337
+    }
+  },
+  {
+    "text": "Eya",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.17624740302562714
+    }
+  },
+  {
+    "text": "Khadija",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.12760385870933533
+    }
+  },
+  {
+    "text": "Call me Sally",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.619345486164093
+    }
+  },
+  {
+    "text": "how do I create a new task ?",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.30231279134750366
+    }
+  },
+  {
+    "text": "why can't i create a new task ?",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.48999351263046265
+    }
+  },
+  {
+    "text": " implement",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "stop",
+      "confidence": 0.13847856223583221
+    }
+  },
+  {
+    "text": "Put Projects Under Version Control",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.29600614309310913
+    }
+  },
+  {
+    "text": "master forms on rasa",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.29986923933029175
+    }
+  },
+  {
+    "text": "web app",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.2182915210723877
+    }
+  },
+  {
+    "text": "Drag the task that requires UI design here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8660200238227844
+    }
+  },
+  {
+    "text": "creating a new workspace type",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.21452727913856506
+    }
+  },
+  {
+    "text": "Drag the task that requires the product design here",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.919914960861206
+    }
+  },
+  {
+    "text": "JavaScript quiz game ",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2204822450876236
+    }
+  },
+  {
+    "text": "Pixel art generator",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.18044547736644745
+    }
+  },
+  {
+    "text": "web project management",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4396619498729706
+    }
+  }
+]

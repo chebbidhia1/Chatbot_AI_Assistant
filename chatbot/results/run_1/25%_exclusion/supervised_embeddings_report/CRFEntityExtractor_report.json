@@ -1,0 +1,74 @@
+{
+  "stream_name": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11
+  },
+  "task_priority": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "workspace_type": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "org_id": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "workspace_description": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 16
+  },
+  "name": {
+    "precision": 0.8969072164948454,
+    "recall": 0.90625,
+    "f1-score": 0.9015544041450777,
+    "support": 96
+  },
+  "workspace_name": {
+    "precision": 1.0,
+    "recall": 0.15625,
+    "f1-score": 0.2702702702702703,
+    "support": 32
+  },
+  "stream_id": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "task_name": {
+    "precision": 1.0,
+    "recall": 0.17857142857142858,
+    "f1-score": 0.30303030303030304,
+    "support": 28
+  },
+  "micro avg": {
+    "precision": 0.9159663865546218,
+    "recall": 0.5797872340425532,
+    "f1-score": 0.7100977198697067,
+    "support": 188
+  },
+  "macro avg": {
+    "precision": 0.4329896907216495,
+    "recall": 0.22123015873015872,
+    "f1-score": 0.2591108705098343,
+    "support": 188
+  },
+  "weighted avg": {
+    "precision": 0.8622504935292827,
+    "recall": 0.5797872340425532,
+    "f1-score": 0.6244521576899483,
+    "support": 188
+  }
+}

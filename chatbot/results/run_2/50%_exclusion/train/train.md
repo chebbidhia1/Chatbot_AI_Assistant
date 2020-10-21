@@ -1,0 +1,260 @@
+## intent:greet
+- heyo
+- hi hi
+- hey dude
+- Hellllooooooo
+- hi pal!
+- I said, helllllloooooO!!!!
+- hello robot
+- hi Mister
+- hey bot!
+- ayyyy whaddup
+- helloooo
+- hi?
+- hey bot
+- hi friend
+- Hei
+- greetings
+- hello sweatheart
+- hi folks
+- hellooo
+
+## intent:goodbye
+- thank you bye
+- see ya
+- thank you goodbye
+- gotta go
+- ciao
+- catch you later
+- bye udo
+- bye bye
+- k byyye
+
+## intent:affirm
+- Oh, ok
+- don't modify anything
+- yep if i have to
+- obviously
+- yes please!
+- wonderful
+- definitely yes without a doubt
+- yop
+- doubtlessly
+- Sweet
+- yes barbecue food
+- yep
+- i don't want to change anything
+- yes :D
+- affirmatively
+- positively
+- okey thank you :)
+- oh cool
+- Sure
+- thant's so great ! good job
+- yes in the west part of town
+- assertedly
+- yep, will do thank you
+- oki doki
+- that's good
+- okey let's continue
+- i accept
+- ok, I behave now
+- that sounds good
+- Absolutely
+- yes accept please
+- i don't want to modify anything , every thing is fine
+- that's great thank you
+- done
+- certainly
+- verily
+- surely
+- sure!
+
+## intent:deny
+- NEIN
+- nein
+- never mind
+- no!!!!
+- deny
+- I'm not going to give it to you
+- no sir
+- nothing
+- sorry, i cannot rephrase
+- no ma'am
+- invalidly
+- I'm not giving you my email address
+- i don't want either of those
+- nah not for me
+
+## intent:stop
+- do you get anything?
+- you suck
+- stop
+- i don't accept
+- stop please
+- i don't like that
+- you can't help me
+- that was bad, you're not helping
+
+## intent:thankyou
+- sorry about my mistakes thank you
+- thank you for the opportunity to work with you. I appreciate it very much
+- amazing, thanks
+- thanks this is great news
+- breath thank you very much
+- breath thank you
+- you rock
+- ah thank you
+- cool, thanks
+- thanks a bunch for everything
+- uh okay thank you
+- Thanks for that
+- cheers bro
+- i am sorry for that thank you anyways
+
+## intent:mood_unhappy
+- extremely sad
+- sad
+- unhappy
+
+## intent:name
+- my name is [John-Philip](name)
+- my full name is [Peter-Owen](name)
+- [fatma](name)
+- [zied](name)
+- my name is [nour Abid](name)
+- my full name is [Lila Jo](name)
+- my name is [Reid-Tyler](name)
+- my name is [moujib kadri](name)
+- my name is [Thomas Howlett](name)
+- [mounira](name)
+- my name is [mohamed ayedi omar](name)
+- hey I am [chaabani Nada](name)
+- my full name is [othman](name)
+- i am [Piper-Anne Brown](name)
+- hello hello my name is [linda fuller](name)
+- my name is [Billy Joe](name)
+- my name is [amine](name)
+- yo! my name is [moujib kadri](name)
+- [Evan-Grant Hill](name)
+- my name is [John Michael](name)
+- my name is [Zulnurain Adil](name)
+- my name is [ben romdhan ines](name)
+- my name is [adil Bacha](name)
+- my full name is [Marc-Philip Smith](name)
+- my name is [Karl-Frank](name)
+- my name is [owais khan](name)
+- my name is [Evan-Scott Lopez](name)
+- hallo my name is [yoser chebbi](name)
+- my full name is [owais khan](name)
+- Please call me [Linda](name)
+- my name is [aymen mensi](name)
+- my name is [Robin Lynn](name)
+- my name is [Frank-Evan Wood](name)
+- my name is [usman Babayan](name)
+- my name is [mustafa](name)
+- my name is [patrik](name)
+- my name is [Marc-Philip Smith](name)
+- my name is [Luke Paul Richardson](name)
+- i am [Mary-Louise Martin](name)
+- my full name is [Karl-Frank](name)
+- my name is [othman](name)
+- my name is [abedelhak](name)
+- [Zaky Jamalallil](name)
+- [tlili ahmed](name)
+- my full name is [John-Oliver](name)
+- ola my name is [leila daghfous](name)
+- good morning people call me [Amy luiz](name)
+- my full name is [salah ali](name)
+- my name is [Anna Lynn](name)
+- my full name is [minica blanco](name)
+- [mokhtar](name)
+- i am [Polly-Jean Davis](name)
+- my full name is [Paul-Franklin](name)
+- my name is [aymen](name)
+- yo! I'm [Tracy](name)
+- [radhouane](name)
+- [Ibrahim](name)
+- my full name is [Lily Rose](name)
+- my name is [Jordan Alexander](name)
+- [mariem belili](name)
+- [nada](name)
+- my full name is [Lily Belle](name)
+- i am [Ellen-Kate](name)
+- [mohamed omar](name)
+- People call me [Greg adams](name)
+- my full name is [mohsen Earney](name)
+- my full name is [Rhett-Aidan](name)
+- [mourad](name)
+- [ann](name)
+- [nouha](name)
+- my name is [Peter-Henry](name)
+- my full name is [Aidan-Sean Allen](name)
+- my full name is [mohamed Abdelrahman](name)
+- jojojo I am [Charlie](name)
+- my name is [tarek](name)
+- my name is [nada ali](name)
+- my name is [Jack Thomas](name)
+- [Eya](name)
+- my name is [Evan-Grant Hill](name)
+- i am [Lara-Katherine Harris](name)
+- Name name is [Tom](name)
+- my name is [Mark Paul Nelson](name)
+- my full name is [Peter-Henry](name)
+- my name is [Jack James](name)
+- [mohsen Earney](name)
+
+## intent:create_task
+- task creation
+- i would like to add a task in Task manager
+- i want to add new task in Task manager
+- how to create a new task ?
+- why can't i create a task ?
+- i want to add my task in Task manager
+- i could not find create a task
+- adding my task in Task manager
+- i want to add a task in Task manager
+- which steps do i need to make to create a task
+- can i create a task in Task manager ?
+- where do i find add a task ?
+
+## intent:inform
+- [master forms on rasa](stream_name)
+- [web project management](workspace_name)
+- [1288](ws_id)
+- [curate survey responses: editing, translating, ranking](stream_name)
+- [Pixel art generator](workspace_name)
+- [a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.](workspace_description)
+- [Build a web scraper](workspace_name)
+- [Training users](workspace_description)
+- [React Install and Programming Help](stream_name)
+- [Drag the developable task here](task_name)
+- [evaluate user feedback](task_name)
+- [Minor modifications to existing PHP website.](stream_name)
+- [recreate a pixel perfect design](workspace_name)
+- [Writing and implementing efficient code](workspace_description)
+- [Client-side Validation](workspace_name)
+- [572](org_id)
+- [Secure web socket communication using ESP32 & ATECC608A](stream_name)
+- [customize an Airtable database](stream_name)
+- [A net worth calculator and tracker](workspace_name)
+- [A random name generator ](workspace_name)
+- [Create a text message downtime alerter](workspace_name)
+- [Identifying areas for modification in existing programs and subsequently developing these modifications](workspace_description)
+- [A method, information processing system, and computer program product manage virtual workspace migration](workspace_description)
+- [An unbeatable Tic-Tac-Toe engine](workspace_name)
+- [Planning and Design](task_name)
+- [debug](task_name)
+- [Hindi font support in tfpdf PHP wordpress ](stream_name)
+- [A tax forecaster ](workspace_name)
+- [ implement](task_name)
+- [dependencies injection](workspace_name)
+- [30](task_priority)
+- [687](stream_id)
+- [Personal assistant for Fluxble Workspace](workspace_description)
+- [Integrate software components](task_name)
+- [workspace for test](workspace_name)
+- [Looking for an ASP.NET and PHP expert for a woocommerce payment Gateaway plugin ](stream_name)
+- [10](task_priority)
+- [JavaScript quiz game ](stream_name)
+- [Building Microservices with Reno](workspace_name)

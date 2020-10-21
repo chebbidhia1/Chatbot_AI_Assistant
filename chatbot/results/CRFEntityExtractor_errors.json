@@ -1,0 +1,717 @@
+[
+  {
+    "text": "I am great",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 5,
+        "end": 10,
+        "confidence_entity": 0.6025290891205917,
+        "value": "great",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "thanks this is great news",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 15,
+        "end": 25,
+        "confidence_entity": 0.8770531622094775,
+        "value": "great news",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "1287",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "1287",
+        "entity": "ws_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "687",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "687",
+        "entity": "stream_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "1281",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "1281",
+        "entity": "stream_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "getting familiar with chatbot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "getting familiar with chatbot",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "secretary",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "secretary",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "integrated development environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "integrated development environment",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 124,
+        "value": "a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "creating a new workspace type",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "creating a new workspace type",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "hello is anybody there",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 9,
+        "end": 22,
+        "confidence_entity": 0.8952941790540103,
+        "value": "anybody there",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i don't want to modify anything , every thing is fine",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 49,
+        "end": 53,
+        "confidence_entity": 0.9623026677433584,
+        "value": "fine",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "I'm Tracy",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "Tracy",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am mahdi ben ali",
+    "entities": [
+      {
+        "start": 5,
+        "end": 18,
+        "value": "mahdi ben ali",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "yo! I'm Tracy",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "Tracy",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "572",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "572",
+        "entity": "org_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "924",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "924",
+        "entity": "ws_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "1288",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "1288",
+        "entity": "ws_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "1280",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "1280",
+        "entity": "stream_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "ws chatbot backbones creation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "ws chatbot backbones creation",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "editor",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "editor",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "web project management",
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "value": "web project management",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "image processing and analysis",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "image processing and analysis",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Personal assistant for Fluxble Workspace",
+    "entities": [
+      {
+        "start": 0,
+        "end": 40,
+        "value": "Personal assistant for Fluxble Workspace",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 23,
+        "end": 40,
+        "confidence_entity": 0.7329608053606875,
+        "value": "Fluxble Workspace",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Achieving Quality of Service and Quality of Life in the Grid",
+    "entities": [
+      {
+        "start": 0,
+        "end": 60,
+        "value": "Achieving Quality of Service and Quality of Life in the Grid",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "hello it is me again",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 12,
+        "end": 20,
+        "confidence_entity": 0.9020984492975322,
+        "value": "me again",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Please call me Linda",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "value": "Linda",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Establish the requirements task here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "Establish the requirements task here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Drag the task that requires UI design here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "Drag the task that requires UI design here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Drag the developable task here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "value": "Drag the developable task here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Drag the testable task here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "value": "Drag the testable task here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "master forms on rasa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 20,
+        "value": "master forms on rasa",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "enrich knowledge about graphql",
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "value": "enrich knowledge about graphql",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "develop new techniques to improve the program ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 46,
+        "value": "develop new techniques to improve the program ",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "10",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "10",
+        "entity": "task_priority"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "web application creation using node js",
+    "entities": [
+      {
+        "start": 0,
+        "end": 38,
+        "value": "web application creation using node js",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "548",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "548",
+        "entity": "org_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "action create task with chatbot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "action create task with chatbot",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "build chatbot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "build chatbot",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "explore new features of this program",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "explore new features of this program",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "workspace for test",
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "value": "workspace for test",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "dependencies injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "value": "dependencies injection",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "workplace improvement strategies",
+    "entities": [
+      {
+        "start": 0,
+        "end": 32,
+        "value": "workplace improvement strategies",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "this workspace is used for test",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "this workspace is used for test",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 18,
+        "end": 31,
+        "confidence_entity": 0.4381226973301591,
+        "value": "used for test",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "A method, information processing system, and computer program product manage virtual workspace migration",
+    "entities": [
+      {
+        "start": 0,
+        "end": 104,
+        "value": "A method, information processing system, and computer program product manage virtual workspace migration",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "migration for the test environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "migration for the test environment",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "bot testing",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "bot testing",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Establish the requirements stream here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 38,
+        "value": "Establish the requirements stream here",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "task_name",
+        "start": 0,
+        "end": 38,
+        "confidence_entity": 0.6573336007438995,
+        "value": "Establish the requirements stream here",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "first stream",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "first stream",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "0",
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "value": "0",
+        "entity": "task_priority"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "20",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "20",
+        "entity": "task_priority"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "30",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "30",
+        "entity": "task_priority"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "rasa chatbot deployment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "value": "rasa chatbot deployment",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "General Workspace",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "General Workspace",
+        "entity": "workspace_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 8,
+        "end": 17,
+        "confidence_entity": 0.5213241041159742,
+        "value": "Workspace",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Agile Development",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "Agile Development",
+        "entity": "workspace_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 17,
+        "confidence_entity": 0.6290305270550911,
+        "value": "Agile Development",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  }
+]

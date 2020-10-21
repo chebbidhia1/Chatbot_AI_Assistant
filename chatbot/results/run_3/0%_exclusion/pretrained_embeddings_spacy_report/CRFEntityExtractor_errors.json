@@ -1,0 +1,412 @@
+[
+  {
+    "text": "thanks this is great news",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 15,
+        "end": 25,
+        "confidence_entity": 0.7264495022892267,
+        "value": "great news",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "boutheina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "boutheina",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "nada nefzi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "nada nefzi",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Yosra",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "Yosra",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "syrine slouli",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "syrine slouli",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "suleiman",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "suleiman",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Ibrahim",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Ibrahim",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "radhouane",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "radhouane",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Please call me Linda",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "value": "Linda",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "extract source code from a small exe file",
+    "entities": [
+      {
+        "start": 0,
+        "end": 41,
+        "value": "extract source code from a small exe file",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 124,
+        "value": "a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.",
+        "entity": "workspace_description"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 124,
+        "confidence_entity": 0.612117351910731,
+        "value": "a configurable execution environment that can be created and managed as a first-class entity to reflect client requirements.",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "upgrade existing software",
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "value": "upgrade existing software",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "financial independence calculator",
+    "entities": [
+      {
+        "start": 0,
+        "end": 33,
+        "value": "financial independence calculator",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 23,
+        "end": 33,
+        "confidence_entity": 0.36170171109593346,
+        "value": "calculator",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "action create task with chatbot",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "action create task with chatbot",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Create technical documentation",
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "value": "Create technical documentation",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_name",
+        "start": 0,
+        "end": 30,
+        "confidence_entity": 0.4561503790590531,
+        "value": "Create technical documentation",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "20",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "value": "20",
+        "entity": "task_priority"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Audit Your Site With Lighthouse",
+    "entities": [
+      {
+        "start": 0,
+        "end": 31,
+        "value": "Audit Your Site With Lighthouse",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "integrated development environment",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "value": "integrated development environment",
+        "entity": "workspace_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_description",
+        "start": 0,
+        "end": 34,
+        "confidence_entity": 0.33806120905980513,
+        "value": "integrated development environment",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Establish the requirements task here",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "Establish the requirements task here",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "enrich knowledge about graphql",
+    "entities": [
+      {
+        "start": 0,
+        "end": 30,
+        "value": "enrich knowledge about graphql",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Minor modifications to existing PHP website.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 44,
+        "value": "Minor modifications to existing PHP website.",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "IOT Platform Data Modeling Architect",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "924",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "924",
+        "entity": "ws_id"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "complete the major phases of the lifecycle",
+    "entities": [
+      {
+        "start": 0,
+        "end": 42,
+        "value": "complete the major phases of the lifecycle",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "stream_name",
+        "start": 0,
+        "end": 32,
+        "confidence_entity": 0.24960546886287807,
+        "value": "complete the major phases of the",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Planning and Design",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "Planning and Design",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_description",
+        "start": 0,
+        "end": 19,
+        "confidence_entity": 0.3756542319392748,
+        "value": "Planning and Design",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "bot testing",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "bot testing",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "curate survey responses: editing, translating, ranking",
+    "entities": [
+      {
+        "start": 0,
+        "end": 54,
+        "value": "curate survey responses: editing, translating, ranking",
+        "entity": "stream_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "workspace_description",
+        "start": 7,
+        "end": 54,
+        "confidence_entity": 0.28591579443406895,
+        "value": "survey responses: editing, translating, ranking",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "deploy programs",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "deploy programs",
+        "entity": "task_name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 7,
+        "end": 15,
+        "confidence_entity": 0.27211126647058825,
+        "value": "programs",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  }
+]

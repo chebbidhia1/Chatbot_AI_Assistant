@@ -1,0 +1,834 @@
+[
+  {
+    "text": "hello there",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2249540686430732
+    }
+  },
+  {
+    "text": "good evening",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22178223362157087
+    }
+  },
+  {
+    "text": "hallo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.22154533486945976
+    }
+  },
+  {
+    "text": "yoo",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3125281976407734
+    }
+  },
+  {
+    "text": "heya",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3489953036106567
+    }
+  },
+  {
+    "text": "hii",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3511293291212956
+    }
+  },
+  {
+    "text": "jop",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.25991342522601046
+    }
+  },
+  {
+    "text": "hello is anybody there",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21199500428065277
+    }
+  },
+  {
+    "text": "hiii",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.352792566162302
+    }
+  },
+  {
+    "text": "heeey",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.36742951916200906
+    }
+  },
+  {
+    "text": "Hello",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3448431464575115
+    }
+  },
+  {
+    "text": "hello?",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2409055626695883
+    }
+  },
+  {
+    "text": "howdy",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3448431464575115
+    }
+  },
+  {
+    "text": "toodle-oo",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21784430774049426
+    }
+  },
+  {
+    "text": "Bye bye",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.34571436922084686
+    }
+  },
+  {
+    "text": "bye for now",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.225370793764234
+    }
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23420098427239056
+    }
+  },
+  {
+    "text": "see you later",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23440327056916058
+    }
+  },
+  {
+    "text": "bye bye bot",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.25464649418389407
+    }
+  },
+  {
+    "text": "it's perfect",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1962107135261594
+    }
+  },
+  {
+    "text": "yes sure",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.230814168707954
+    }
+  },
+  {
+    "text": "right on",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.20543201234126174
+    }
+  },
+  {
+    "text": "cool",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21674529822617794
+    }
+  },
+  {
+    "text": "sure thing",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22632387167707232
+    }
+  },
+  {
+    "text": "I'm sure I will!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23859615814526572
+    }
+  },
+  {
+    "text": "i don't want to modify any thing",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24002232988545355
+    }
+  },
+  {
+    "text": "great !",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22773429466944092
+    }
+  },
+  {
+    "text": "that's what i want",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22331565805208956
+    }
+  },
+  {
+    "text": "yes i want",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.245855550482247
+    }
+  },
+  {
+    "text": "truly",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21348405125574263
+    }
+  },
+  {
+    "text": "perfect !",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23167676256379857
+    }
+  },
+  {
+    "text": "accept",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2257701273203171
+    }
+  },
+  {
+    "text": "fine",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23938937952503606
+    }
+  },
+  {
+    "text": "i don't want to modify anything",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24577386568973533
+    }
+  },
+  {
+    "text": "amayzing",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1876695319481922
+    }
+  },
+  {
+    "text": "go for it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2307198818023019
+    }
+  },
+  {
+    "text": "please",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22111536623988126
+    }
+  },
+  {
+    "text": "amazing!",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22003296225653898
+    }
+  },
+  {
+    "text": "ja",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2661489679256162
+    }
+  },
+  {
+    "text": "hm, i'd like that",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23791396375498952
+    }
+  },
+  {
+    "text": "yay",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.30555756856006977
+    }
+  },
+  {
+    "text": "yas",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.2545003377354414
+    }
+  },
+  {
+    "text": "no need to modify anything",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21900396810405706
+    }
+  },
+  {
+    "text": "I changed my mind. I want to accept it",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23220376251284736
+    }
+  },
+  {
+    "text": "nowhere",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2154900930637188
+    }
+  },
+  {
+    "text": "i'm not sure",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23113267250014005
+    }
+  },
+  {
+    "text": "i'm afraid not",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23309784571618392
+    }
+  },
+  {
+    "text": "nah",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.3088484797421486
+    }
+  },
+  {
+    "text": "no go",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2568475899067803
+    }
+  },
+  {
+    "text": "no and no again",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23408242436400703
+    }
+  },
+  {
+    "text": "No, not really.",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2329853903143561
+    }
+  },
+  {
+    "text": "no",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24505180365925314
+    }
+  },
+  {
+    "text": "i decline",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23404002397451296
+    }
+  },
+  {
+    "text": "stop go back",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24558504267347653
+    }
+  },
+  {
+    "text": "this conversation is not really helpful",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21226757766707152
+    }
+  },
+  {
+    "text": "ok then you cant help me",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.25835773089498903
+    }
+  },
+  {
+    "text": "nothing else?",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.237972739153354
+    }
+  },
+  {
+    "text": "you can't help me with what i need",
+    "intent": "stop",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24331604982649802
+    }
+  },
+  {
+    "text": "thank you so much fo your help !",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24159016022843305
+    }
+  },
+  {
+    "text": "thank you anyways",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24306522923028984
+    }
+  },
+  {
+    "text": "yes thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22662432552391729
+    }
+  },
+  {
+    "text": "okey thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2269648737547947
+    }
+  },
+  {
+    "text": "Cool. Thanks",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22709618527239026
+    }
+  },
+  {
+    "text": "um thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24369632019704046
+    }
+  },
+  {
+    "text": "perfect thank you",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2268742220153202
+    }
+  },
+  {
+    "text": "Thank you so much",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.24053427137981281
+    }
+  },
+  {
+    "text": "thanks",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.23416200852241745
+    }
+  },
+  {
+    "text": "Thanks bot",
+    "intent": "thankyou",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21263772279486887
+    }
+  },
+  {
+    "text": "very sad",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "name",
+      "confidence": 0.21096172615877506
+    }
+  },
+  {
+    "text": "not very good",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2249920453654698
+    }
+  },
+  {
+    "text": "Usually people call me Amy luiz",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21410021607031585
+    }
+  },
+  {
+    "text": "waleed",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1414511361548961
+    }
+  },
+  {
+    "text": "leila daghfous",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1677967313601841
+    }
+  },
+  {
+    "text": "my name is rim wesleti",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1416445851057936
+    }
+  },
+  {
+    "text": "my name is naziha",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.14754474561477676
+    }
+  },
+  {
+    "text": "my name is yoser chebbi",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.14754474561477676
+    }
+  },
+  {
+    "text": "suleiman",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1414511361548961
+    }
+  },
+  {
+    "text": "houssem ghorbel",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1876695319481922
+    }
+  },
+  {
+    "text": "naima",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1677967313601841
+    }
+  },
+  {
+    "text": "I am chaabani Nada",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22253218337722425
+    }
+  },
+  {
+    "text": "You can call me Sam bowie",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22261114058746478
+    }
+  },
+  {
+    "text": "Mohsen",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.13563146199294768
+    }
+  },
+  {
+    "text": "I am nada chabbani",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.22253218337722425
+    }
+  },
+  {
+    "text": "minica blanco",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.19828005286902295
+    }
+  },
+  {
+    "text": "my name is jasser",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.14754474561477676
+    }
+  },
+  {
+    "text": "kamel tounsi",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1414511361548961
+    }
+  },
+  {
+    "text": "my name is Zaky Jamalallil",
+    "intent": "name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.14754474561477676
+    }
+  },
+  {
+    "text": "how do I add a new task in Task manager ?",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2091302587991094
+    }
+  },
+  {
+    "text": "i want to add the task in Task manager",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.19944799296715945
+    }
+  },
+  {
+    "text": "adding the task in Task manager",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.16644575368937817
+    }
+  },
+  {
+    "text": "how can I add my task in Task manager ?",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.20761870481965153
+    }
+  },
+  {
+    "text": "i want to create a new task",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.20946084474462287
+    }
+  },
+  {
+    "text": "how can I add a task in Task manager ?",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.20720723970249846
+    }
+  },
+  {
+    "text": "add task in Task manager",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1617937488631709
+    }
+  },
+  {
+    "text": "add the task in Task manager",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.1682516062711797
+    }
+  },
+  {
+    "text": "how do I add the task in Task manager ?",
+    "intent": "create_task",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.21107139391359653
+    }
+  },
+  {
+    "text": "Testing and evaluating new programs",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.14518112084094204
+    }
+  },
+  {
+    "text": "IOT Platform Data Modeling Architect",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.15192535355648584
+    }
+  },
+  {
+    "text": "Build First Node App",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.1523266364813639
+    }
+  },
+  {
+    "text": "integrated development environment",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.15050867238784327
+    }
+  },
+  {
+    "text": "Troubleshoot",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.19379899615744353
+    }
+  },
+  {
+    "text": "web application creation using node js",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.15931326144470212
+    }
+  },
+  {
+    "text": "General Workspace",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.1428802912488204
+    }
+  },
+  {
+    "text": "web app",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.1623181003030799
+    }
+  }
+]
