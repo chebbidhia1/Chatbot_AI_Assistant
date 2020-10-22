@@ -1,0 +1,178 @@
+## intent: greet
+- eeeee hello eeeee
+- eeeeegood eveningeeeee
+- eeeeegood afternooneeeee
+- eeeeehey thereeeeee
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- good afternoon
+- hey there
+- hello robot
+- hiiiiiiiiiiiiii
+- bonjourrrr
+- salut
+- beh lkhir
+- helllllllllo
+- aaslemaa
+- donnnne
+- donnnne2
+- hayhay
+- a
+- a1
+- a2
+- a3
+## intent: goodbye
+- bye
+- ciaoo
+- guten morgen
+- see you later
+- great bye bye
+- thank you bye
+- goodnight
+- good bye
+- byyyyye
+- a +
+- byby
+- byyyyyyyyyyyye
+- byebyee
+- seyes rouhek
+- b
+- b1
+- b2
+- b3
+## intent: thank you
+- merciiii
+- okay cool uh thank you
+- okay thank you
+- you rock
+- and thats all thank you
+- sorry about my mistakes thank you
+- meera thank you
+- thank you for the opportunity to work with you. I appreciate it very much
+- amazing  thanks
+- c
+- c1
+- c2
+- c3
+## intent: create task
+- d3
+- i want to create task
+- i would like task
+- d
+- d1
+- d2
+## intent: stream creation
+- streeeem
+- streeeem
+- streeeem
+- streeeem
+- streeeem
+- streeeem
+-  create stream
+## intent: names
+- Lucy Mae
+- Mary Elizabeth
+- Mary Kate
+- Jack James
+- leila daghfous
+- Mark-Philip
+- Lila ahahha ahahahhah hahahah aaaaaaaaaaaaaaaaaa
+## intent: org_id
+- 4820
+- 8127
+- 6316
+- 7239
+- 7333
+- 3128
+- 6277
+- 4820
+- 8127
+- 6316
+- 7239
+- 7333
+- 3128
+- 6277
+- 4820
+- 8127
+- 6316
+- 7239
+- 7333
+- 3128
+- 6277
+## intent: ws_id
+- 9654
+- 4149
+- 4610
+- 144
+- 7487
+- 7859
+- 2059
+- 9654
+- 4149
+- 4610
+- 144
+- 7487
+- 7859
+- 2059
+- 9654
+- 4149
+- 4610
+- 144
+- 7487
+- 7859
+- 2059
+## intent: stream_id
+- 2639
+- 8779
+- 2996
+- 2812
+- 6543
+- 5889
+- 5498
+- 2639
+- 8779
+- 2996
+- 2812
+- 6543
+- 5889
+- 5498
+- 2639
+- 8779
+- 2996
+- 2812
+- 6543
+- 5889
+- 5498
+## intent: task_name
+- build chatbot
+- master forms on rasa
+- Establish the requirements stream here
+- explore new features of this program
+- enrich knowledge about graphql
+- develop new techniques to improve the program
+- first task
+## intent: task_priority
+- 0
+- 10
+- 20
+- 30
+- 0
+- 10
+- 20
+- 0
+- 10
+- 20
+- 30
+- 0
+- 10
+- 20
+- 0
+- 10
+- 20
+- 30
+- 0
+- 10
+- 20

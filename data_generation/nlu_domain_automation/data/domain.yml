@@ -1,0 +1,24 @@
+intents:
+- task_priority
+- task_name
+- stream_id
+- ws_id
+- org_id
+- names
+- stream creation
+- create task
+- thank you
+- goodbye
+- greet
+actions:
+- utter_greet
+- utter_goodbye
+- utter_thank you
+- utter_create task
+- utter_stream creation
+- utter_names
+- utter_org_id
+- utter_ws_id
+- utter_stream_id
+- utter_task_name
+- utter_task_priority

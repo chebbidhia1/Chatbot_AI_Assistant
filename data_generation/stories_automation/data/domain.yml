@@ -1,0 +1,12 @@
+intents:
+- stream creation
+- create task
+- thank you
+- goodbye
+- greet
+actions:
+- utter_greet
+- utter_goodbye
+- utter_thank you
+- utter_create task
+- utter_stream creation
